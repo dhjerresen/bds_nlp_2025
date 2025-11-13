@@ -92,3 +92,6 @@ Knowledge graphs provide a powerful tool for comparing time periods
 Post-crisis networks show increased risk complexity
 Companies connect to more diverse risk types in 2008
 LLMs require careful prompt engineering and validation
+
+My recording can be accessed at the following link:
+https://aaudk.sharepoint.com/:v:/s/Solo_gi48db/IQBtzx3tqfAQTqkvDo4g__mpAdmZS2gnjbTWZxuWmcUy9B0?e=DwrQLS
