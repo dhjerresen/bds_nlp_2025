@@ -1,4 +1,3 @@
-README.md
 📘 Risk Extraction & Knowledge Graphs from Earnings Call Transcripts
 This project extracts risk-related statements from earnings call transcripts using an LLM, converts them into structured data, and builds company–risk knowledge graphs to compare pre-subprime (2006) and post-subprime (2008) risk networks.
 The workflow combines LLM-based information extraction, data cleaning, graph construction, and network analysis.
@@ -76,25 +75,7 @@ Centrality Change Table
 Distribution of Risk Types
 Company-Level Risk Profiles
 These visualizations highlight how risk structures and corporate concerns evolved between the two periods.
-9. Slide Deck & Presentation Video
-Slide deck (max 10 slides) includes:
-Problem
-Dataset
-Pipeline
-Extraction examples
-Structured data
-Graph construction
-Graph visualizations
-Temporal comparison (2006 → 2008)
-Key insights
-Conclusion + open questions
-Presentation video (max 10 minutes) covers:
-A walkthrough of your LLM extraction pipeline
-Explanation of your knowledge graphs
-Demonstration of network analysis
-Discussion of strengths & weaknesses of using LLMs
-Reflection on temporal risk patterns
-10. Strengths & Limitations of LLM-Based Extraction
+9. Strengths & Limitations of LLM-Based Extraction
 Strengths
 Fast and flexible extraction
 Detects implied risk categories
@@ -104,20 +85,7 @@ JSON errors and hallucinations
 Difficulty enforcing consistent speaker roles
 Sensitive to prompt wording
 Requires cleaning and validation
-11. Repository Structure
-├── data/                  # raw transcripts and cleaned CSVs
-├── notebooks/             # Jupyter notebooks for extraction and analysis
-├── graphs/                # visualization outputs
-├── README.md              # project documentation
-└── requirements.txt       # dependencies
-12. How to Run
-Install requirements:
-pip install -r requirements.txt
-Run extraction:
-python extract_risks.py
-Build graphs and run analysis:
-jupyter notebook
-13. Conclusion
+10. Conclusion
 This project demonstrates that:
 LLMs can extract structured risk information effectively
 Knowledge graphs provide a powerful tool for comparing time periods
