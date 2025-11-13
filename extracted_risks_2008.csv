@@ -1,0 +1,2367 @@
+transcript_id,company,speaker_role,risk_type,expectations
+0.0,Amphenol Corporation,CFO,economic downturn,neutral
+0.0,Amphenol Corporation,CEO,economic downturn,neutral
+0.0,Amphenol Corporation,President & COO,economic downturn,neutral
+0.0,Amphenol Corporation,CFO,economic downturn,neutral
+0.0,Amphenol Corporation,CFO,slowdown in spending,neutral
+0.0,Amphenol Corporation,CFO,economic downturn,neutral
+0.0,Amphenol Corporation,CFO,economic downturn,neutral
+0.0,Amphenol Corporation,CFO,economic downturn,neutral
+0.0,Amphenol Corporation,CFO,economic downturn,neutral
+0.0,Amphenol Corporation,CFO,uncertain demand environment,neutral
+0.0,Amphenol Corporation,CFO,economic downturn,neutral
+1.0,PPL Corporation,Director of Investor Relations,earnings forecast,neutral
+2.0,Atmos Energy Corporation,CEO,seasonal,neutral
+2.0,Atmos Energy Corporation,CEO,market,neutral
+2.0,Atmos Energy Corporation,CEO,operational,neutral
+2.0,Atmos Energy Corporation,CEO,market,neutral
+2.0,Atmos Energy Corporation,CEO,operational,neutral
+2.0,Atmos Energy Corporation,CEO,market,neutral
+2.0,Atmos Energy Corporation,CEO,operational,neutral
+2.0,Atmos Energy Corporation,CEO,market,neutral
+3.0,Medtronic,CEO,market,neutral
+3.0,Medtronic,CEO,product,neutral
+3.0,Medtronic,CEO,market,neutral
+3.0,Medtronic,CEO,market,neutral
+4.0,Pall Corporation,CEO,market,neutral
+5.0,Home Depot,CEO,economic downturn,neutral
+5.0,Home Depot,CEO,housing market,neutral
+5.0,Home Depot,CEO,credit markets,neutral
+5.0,Home Depot,CEO,unemployment,neutral
+5.0,Home Depot,CEO,regional economic differences,neutral
+5.0,Home Depot,CEO,global economic weakness,neutral
+5.0,Home Depot,CEO,implementation challenges,neutral
+6.0,Assurant,CEO,market volatility,neutral
+6.0,Assurant,CEO,investment losses,neutral
+6.0,Assurant,CEO,market volatility,neutral
+6.0,Assurant,CEO,market volatility,neutral
+7.0,Newmont Mining Cooperation,President and Chief Executive Officer,industry,neutral
+7.0,Newmont Mining Cooperation,President and Chief Executive Officer,operational,neutral
+7.0,Newmont Mining Cooperation,President and Chief Executive Officer,industry,neutral
+7.0,Newmont Mining Cooperation,President and Chief Executive Officer,operational,neutral
+7.0,Newmont Mining Cooperation,President and Chief Executive Officer,operational,neutral
+7.0,Newmont Mining Cooperation,President and Chief Executive Officer,industry,neutral
+7.0,Newmont Mining Cooperation,President and Chief Executive Officer,operational,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CFO,economic,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+8.0,MMC,CEO,market,neutral
+9.0,Philip Morris International,Louie Camilleri,currency,neutral
+9.0,Philip Morris International,Louie Camilleri,economic downturn,neutral
+9.0,Philip Morris International,Louie Camilleri,consumer behavior,neutral
+9.0,Philip Morris International,Louie Camilleri,currency,neutral
+10.0,Adobe Inc.,CEO,economic environment,neutral
+10.0,Adobe Inc.,CEO,forward-looking statements,neutral
+10.0,Adobe Inc.,CEO,competition,neutral
+10.0,Adobe Inc.,CEO,product diversification,neutral
+11.0,Ceradyne,CEO,economic downturn,neutral
+11.0,Ceradyne,CEO,investment valuation,neutral
+11.0,Ceradyne,CEO,acquisition related,neutral
+11.0,Ceradyne,CEO,investment valuation,neutral
+12.0,J.M. Smucker Company,CFO,commodity price volatility,neutral
+12.0,J.M. Smucker Company,President and Co-Chief Executive Officer,competitive,neutral
+12.0,J.M. Smucker Company,CFO,competitive,neutral
+13.0,Transocean Limited,Vice President of Investor Relations and Communications,cyclical industry,neutral
+13.0,Transocean Limited,Chief Executive Officer,cyclical industry,neutral
+13.0,Transocean Limited,"Senior Vice President, Chief Financial Officer",cyclical industry,neutral
+13.0,Transocean Limited,Vice President of Investor Relations and Communications,cyclical industry,neutral
+14.0,"AutoZone, Inc.",CEO,competition,neutral
+14.0,"AutoZone, Inc.",CEO,product demand,neutral
+14.0,"AutoZone, Inc.",CEO,economy,neutral
+14.0,"AutoZone, Inc.",CEO,credit markets,neutral
+14.0,"AutoZone, Inc.",CEO,ability to hire and retain qualified employees,neutral
+14.0,"AutoZone, Inc.",CEO,consumer debt levels,neutral
+14.0,"AutoZone, Inc.",CEO,inflation,neutral
+14.0,"AutoZone, Inc.",CEO,weather,neutral
+14.0,"AutoZone, Inc.",CEO,raw material costs of suppliers,neutral
+14.0,"AutoZone, Inc.",CEO,energy prices,neutral
+14.0,"AutoZone, Inc.",CEO,"war and the prospect of war, including terrorist activity",neutral
+14.0,"AutoZone, Inc.",CEO,availability of consumer transportation,neutral
+14.0,"AutoZone, Inc.",CEO,construction delays,neutral
+14.0,"AutoZone, Inc.",CEO,access to available and feasible financing,neutral
+14.0,"AutoZone, Inc.",CEO,changes in laws or regulations,neutral
+15.0,Allegheny Technologies Incorporated,CEO,market,neutral
+15.0,Allegheny Technologies Incorporated,CEO,supply chain,neutral
+15.0,Allegheny Technologies Incorporated,CEO,market,neutral
+15.0,Allegheny Technologies Incorporated,CFO,market,neutral
+15.0,Allegheny Technologies Incorporated,CFO,operational,neutral
+15.0,Allegheny Technologies Incorporated,CFO,market,neutral
+15.0,Allegheny Technologies Incorporated,CFO,market,neutral
+15.0,Allegheny Technologies Incorporated,CFO,market,neutral
+15.0,Allegheny Technologies Incorporated,CFO,operational,neutral
+15.0,Allegheny Technologies Incorporated,CFO,market,neutral
+16.0,Brunswick Corporation,Dusty McCoy,financial,neutral
+16.0,Brunswick Corporation,Dusty McCoy,operational,neutral
+16.0,Brunswick Corporation,Dusty McCoy,financial,neutral
+16.0,Brunswick Corporation,Dusty McCoy,operational,neutral
+16.0,Brunswick Corporation,Dusty McCoy,operational,neutral
+16.0,Brunswick Corporation,Dusty McCoy,operational,neutral
+16.0,Brunswick Corporation,Dusty McCoy,operational,neutral
+16.0,Brunswick Corporation,Dusty McCoy,financial,neutral
+17.0,Chevron,CFO,market price,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,market price,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,operational,neutral
+17.0,Chevron,CFO,operational,neutral
+18.0,Kellogg Company,CEO,economic slowdown,neutral
+18.0,Kellogg Company,CFO,commodity inflation,neutral
+18.0,Kellogg Company,CFO,higher tax rate,neutral
+18.0,Kellogg Company,CEO,volatile cost inflation,neutral
+19.0,Walgreen,CEO,economic downturn,neutral
+19.0,Walgreen,CFO,industry trends,neutral
+19.0,Walgreen,President,industry trends,neutral
+19.0,Walgreen,Treasurer,industry trends,neutral
+20.0,International Paper,CEO,input costs,neutral
+20.0,International Paper,CEO,market conditions,neutral
+20.0,International Paper,CEO,input costs,neutral
+20.0,International Paper,CEO,interest costs,neutral
+20.0,International Paper,CEO,input costs,neutral
+20.0,International Paper,CEO,input costs,neutral
+20.0,International Paper,CEO,input costs,neutral
+20.0,International Paper,CEO,input costs,neutral
+21.0,Exelon,CEO,operational,neutral
+21.0,Exelon,CEO,operational,neutral
+21.0,Exelon,CEO,operational,neutral
+21.0,Exelon,CEO,operational,neutral
+22.0,Xerox Corporation,Anne M. Mulcahy,operational,neutral
+22.0,Xerox Corporation,Anne M. Mulcahy,operational,neutral
+22.0,Xerox Corporation,Anne M. Mulcahy,operational,neutral
+22.0,Xerox Corporation,Anne M. Mulcahy,operational,neutral
+22.0,Xerox Corporation,Anne M. Mulcahy,operational,neutral
+22.0,Xerox Corporation,Anne M. Mulcahy,operational,neutral
+22.0,Xerox Corporation,Anne M. Mulcahy,operational,neutral
+22.0,Xerox Corporation,Anne M. Mulcahy,operational,neutral
+23.0,Amgen Inc.,VP of IR,regulatory,neutral
+23.0,Amgen Inc.,"Chairman, CEO and President",market,neutral
+23.0,Amgen Inc.,CFO,market,neutral
+23.0,Amgen Inc.,Head of Commercial Operations,market,neutral
+23.0,Amgen Inc.,Head of Research and Development,research,neutral
+23.0,Amgen Inc.,"Chairman, Chief Executive Officer and President",regulatory,neutral
+23.0,Amgen Inc.,CFO,market,neutral
+23.0,Amgen Inc.,Head of Commercial Operations,market,neutral
+23.0,Amgen Inc.,Head of Research and Development,research,neutral
+23.0,Amgen Inc.,"Chairman, Chief Executive Officer and President",market,neutral
+24.0,GM,Mike DiGiovanni,economic downturn,neutral
+24.0,GM,Mike DiGiovanni,financial market turmoil,neutral
+24.0,GM,Mike DiGiovanni,economic recession,neutral
+24.0,GM,Mike DiGiovanni,financial market turmoil,neutral
+24.0,GM,Mike DiGiovanni,economic recession,neutral
+24.0,GM,Mike DiGiovanni,financial market turmoil,neutral
+24.0,GM,Mike DiGiovanni,economic recession,neutral
+24.0,GM,Mike DiGiovanni,financial market turmoil,neutral
+24.0,GM,Mike DiGiovanni,economic recession,neutral
+24.0,GM,Mike DiGiovanni,financial market turmoil,neutral
+25.0,Terex Corporation,Ronald M. DeFeo - Chairman and Chief Executive Officer,cost environment,neutral
+25.0,Terex Corporation,Ronald M. DeFeo - Chairman and Chief Executive Officer,forecasting,neutral
+25.0,Terex Corporation,Ronald M. DeFeo - Chairman and Chief Executive Officer,input costs,neutral
+25.0,Terex Corporation,Ronald M. DeFeo - Chairman and Chief Executive Officer,forecasting,neutral
+25.0,Terex Corporation,Ronald M. DeFeo - Chairman and Chief Executive Officer,cost increase,neutral
+26.0,None,"Executive Vice President, Finance and Chief Financial Officer",raw material cost,neutral
+26.0,None,"Executive Vice President, Finance and Chief Financial Officer",weak demand,neutral
+26.0,None,"Executive Vice President, Finance and Chief Financial Officer",tax rate,neutral
+27.0,Travelers,"Senior Vice President, Investor Relations",market disruption,neutral
+27.0,Travelers,Chairman and CEO,financial market disruption,neutral
+27.0,Travelers,Chief Financial Officer,financial market disruption,neutral
+27.0,Travelers,President and Chief Operating Officer,market disruption,neutral
+27.0,Travelers,"Executive Vice President, Personal Insurance and Select Accounts",market disruption,neutral
+27.0,Travelers,Chief Investment Officer,market disruption,neutral
+27.0,Travelers,Chief Legal Officer,market disruption,neutral
+28.0,GM,CEO,market,neutral
+28.0,GM,CEO,market,neutral
+28.0,GM,CEO,operational,neutral
+28.0,GM,CEO,operational,neutral
+28.0,GM,CEO,operational,neutral
+28.0,GM,CEO,operational,neutral
+28.0,GM,CEO,financial,neutral
+28.0,GM,CEO,operational,neutral
+28.0,GM,CEO,operational,neutral
+28.0,GM,CEO,operational,neutral
+28.0,GM,CEO,operational,neutral
+28.0,GM,CEO,financial,neutral
+29.0,Newmont Mining Corporation,President and CEO,operational,neutral
+29.0,Newmont Mining Corporation,President and CEO,operational,neutral
+29.0,Newmont Mining Corporation,President and CEO,external,neutral
+29.0,Newmont Mining Corporation,President and CEO,operational,neutral
+29.0,Newmont Mining Corporation,President and CEO,operational,neutral
+29.0,Newmont Mining Corporation,President and CEO,operational,neutral
+29.0,Newmont Mining Corporation,President and CEO,operational,neutral
+29.0,Newmont Mining Corporation,President and CEO,external,neutral
+29.0,Newmont Mining Corporation,President and CEO,operational,neutral
+29.0,Newmont Mining Corporation,President and CEO,external,neutral
+29.0,Newmont Mining Corporation,President and CEO,operational,neutral
+30.0,Simon Property Group,VP of IR,economic,neutral
+31.0,The Allstate Corporation,CEO,economic recession,neutral
+31.0,The Allstate Corporation,CFO,market volatility,neutral
+31.0,The Allstate Corporation,CEO,catastrophes,neutral
+31.0,The Allstate Corporation,CFO,fixed income markets,neutral
+31.0,The Allstate Corporation,CEO,catastrophes,neutral
+31.0,The Allstate Corporation,CFO,investment portfolio,neutral
+31.0,The Allstate Corporation,CEO,economic recession,neutral
+31.0,The Allstate Corporation,CFO,market volatility,neutral
+31.0,The Allstate Corporation,CEO,economic recession,neutral
+32.0,IAC,CFO,margin,neutral
+33.0,Lennar,CEO,economic downturn,neutral
+33.0,Lennar,CEO,economic downturn,neutral
+33.0,Lennar,CEO,economic downturn,neutral
+33.0,Lennar,CEO,inflation,neutral
+33.0,Lennar,CEO,economic downturn,neutral
+34.0,Republic Services,CEO,economic downturn,neutral
+35.0,BB&T Corp,CEO,credit quality,neutral
+35.0,BB&T Corp,CEO,margin,neutral
+35.0,BB&T Corp,CEO,interest rate risk,neutral
+35.0,BB&T Corp,CFO,loan loss reserves,neutral
+35.0,BB&T Corp,CFO,interest rate risk,neutral
+35.0,BB&T Corp,CFO,interest rate risk,neutral
+36.0,"Agilent Technologies, Inc.","VP, IR",economic environment,neutral
+36.0,"Agilent Technologies, Inc.",CEO,market weakness,neutral
+36.0,"Agilent Technologies, Inc.","CFO and EVP, Finance and Administration",market weakness,neutral
+36.0,"Agilent Technologies, Inc.","VP, IR",forward-looking statements,neutral
+37.0,FedEx,CEO,macroeconomic,neutral
+37.0,FedEx,CEO,fuel prices,neutral
+37.0,FedEx,CEO,automotive market,neutral
+37.0,FedEx,CEO,financial crisis,neutral
+37.0,FedEx,CEO,housing industry,neutral
+38.0,DENTSPLY International,CEO,economic,neutral
+38.0,DENTSPLY International,CEO,competitive,neutral
+38.0,DENTSPLY International,CEO,market,neutral
+38.0,DENTSPLY International,CEO,competitive,neutral
+38.0,DENTSPLY International,CEO,competitive,neutral
+38.0,DENTSPLY International,CEO,competitive,neutral
+39.0,Danaher,"Vice President, Investor Relations",soft demand,neutral
+39.0,Danaher,President and Chief Executive Officer,soft demand,neutral
+39.0,Danaher,Chief Financial Officer,soft demand,neutral
+39.0,Danaher,"Vice President, Investor Relations",acquisition related charges,neutral
+39.0,Danaher,President and Chief Executive Officer,acquisition related charges,neutral
+39.0,Danaher,Chief Financial Officer,acquisition related charges,neutral
+40.0,Hershey,CEO,market conditions,neutral
+40.0,Hershey,CFO,operational,neutral
+40.0,Hershey,CEO,market conditions,neutral
+40.0,Hershey,CFO,operational,neutral
+40.0,Hershey,CEO,market conditions,neutral
+40.0,Hershey,CFO,operational,neutral
+41.0,Bed Bath & Beyond,CEO,industry,neutral
+41.0,Bed Bath & Beyond,CEO,macroeconomic,neutral
+42.0,International Paper,CEO,input costs,neutral
+42.0,International Paper,CFO,input costs,neutral
+42.0,International Paper,CFO,input costs,neutral
+42.0,International Paper,CFO,input costs,neutral
+42.0,International Paper,CFO,input costs,neutral
+42.0,International Paper,CFO,input costs,neutral
+42.0,International Paper,CFO,input costs,neutral
+42.0,International Paper,CFO,input costs,neutral
+43.0,NiSource,CEO,economic environment,neutral
+43.0,NiSource,CEO,market volatility,neutral
+43.0,NiSource,CEO,operational,neutral
+43.0,NiSource,CEO,earnings pressures,neutral
+44.0,"Analog Devices, Inc.","Executive Director, Investor Relations",financial,neutral
+44.0,"Analog Devices, Inc.",CEO,financial,neutral
+44.0,"Analog Devices, Inc.",Group President,financial,neutral
+44.0,"Analog Devices, Inc.","Vice President, Finance",financial,neutral
+44.0,"Analog Devices, Inc.",CEO,financial,neutral
+45.0,Transocean Inc.,VP IR and Communications,operational,neutral
+45.0,Transocean Inc.,CEO,operational,neutral
+45.0,Transocean Inc.,CFO,operational,neutral
+45.0,Transocean Inc.,Marketing & Planning,operational,neutral
+45.0,Transocean Inc.,CEO,operational,neutral
+45.0,Transocean Inc.,CFO,operational,neutral
+45.0,Transocean Inc.,Marketing & Planning,operational,neutral
+45.0,Transocean Inc.,CEO,operational,neutral
+45.0,Transocean Inc.,CFO,operational,neutral
+45.0,Transocean Inc.,Marketing & Planning,operational,neutral
+46.0,Caterpillar Inc.,CEO,economic downturn,neutral
+46.0,Caterpillar Inc.,CFO,operational,neutral
+46.0,Caterpillar Inc.,CEO,economic downturn,neutral
+46.0,Caterpillar Inc.,CFO,operational,neutral
+46.0,Caterpillar Inc.,CEO,economic downturn,neutral
+47.0,John Deere,VP IR,market,neutral
+47.0,John Deere,CFO,market,neutral
+47.0,John Deere,Manager IR,market,neutral
+47.0,John Deere,Director IR,market,neutral
+47.0,John Deere,IR,market,neutral
+47.0,John Deere,CFO,operational,neutral
+47.0,John Deere,Manager IR,market,neutral
+47.0,John Deere,Director IR,market,neutral
+47.0,John Deere,IR,market,neutral
+47.0,John Deere,CFO,operational,neutral
+47.0,John Deere,Manager IR,market,neutral
+47.0,John Deere,Director IR,market,neutral
+47.0,John Deere,IR,market,neutral
+47.0,John Deere,CFO,operational,neutral
+47.0,John Deere,Manager IR,market,neutral
+47.0,John Deere,Director IR,market,neutral
+47.0,John Deere,IR,market,neutral
+48.0,None,CEO,forward looking,neutral
+48.0,None,CFO,forward looking,neutral
+48.0,None,CFO,forward looking,neutral
+48.0,None,CFO,forward looking,neutral
+49.0,LabCorp,CEO,economic,neutral
+49.0,LabCorp,CFO,financial,neutral
+49.0,LabCorp,CFO,operational,neutral
+49.0,LabCorp,CFO,financial,neutral
+50.0,"AMETEK, Inc.",CEO,economic downturn,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+51.0,Rock-Tenn,CFO,operational,neutral
+52.0,NiSource,"Senior VP, Corporate Affairs",financial,neutral
+52.0,NiSource,President and Chief Executive Officer,financial,neutral
+52.0,NiSource,Executive Vice President and Chief Financial Officer,financial,neutral
+52.0,NiSource,"Senior VP, Corporate Affairs",financial,neutral
+53.0,Broadcom Inc.,CEO,economic conditions,neutral
+53.0,Broadcom Inc.,CFO,economic conditions,neutral
+53.0,Broadcom Inc.,"VP, Investor Relations",general economic conditions,neutral
+54.0,"Cardinal Health, Inc.",Kerry Clark,operational,neutral
+54.0,"Cardinal Health, Inc.",Kerry Clark,market,neutral
+54.0,"Cardinal Health, Inc.",Kerry Clark,operational,neutral
+54.0,"Cardinal Health, Inc.",Kerry Clark,market,neutral
+54.0,"Cardinal Health, Inc.",Kerry Clark,operational,neutral
+54.0,"Cardinal Health, Inc.",Kerry Clark,operational,neutral
+54.0,"Cardinal Health, Inc.",Kerry Clark,operational,neutral
+55.0,Union Pacific,"Chairman, CEO and President",economic weakness,neutral
+55.0,Union Pacific,CFO,fuel prices,neutral
+55.0,Union Pacific,"Chairman, CEO and President",weather challenges,neutral
+55.0,Union Pacific,"Executive Vice President, Marketing and Sales",American Axle Strike,negative
+55.0,Union Pacific,"Executive Vice President, Marketing and Sales",construction markets,neutral
+55.0,Union Pacific,"Executive Vice President, Marketing and Sales",economic softness,neutral
+56.0,Yum! Brands,CEO,commodity inflation,neutral
+56.0,Yum! Brands,CEO,unexpected events,neutral
+56.0,Yum! Brands,CEO,economic downturn,neutral
+57.0,International Flavors & Fragrances,Director of Corporate Communications,economic challenges,neutral
+58.0,Amylin Pharmaceuticals,"Senior Director, IR",sales performance,neutral
+58.0,Amylin Pharmaceuticals,President and Chief Executive Officer,sales performance,neutral
+58.0,Amylin Pharmaceuticals,"Senior Vice President, Finance and Chief Financial Officer",sales performance,neutral
+58.0,Amylin Pharmaceuticals,"Senior Vice President, Finance and Chief Financial Officer",inventory management,neutral
+59.0,"AMETEK, Inc.",CEO,acquisition impact,neutral
+59.0,"AMETEK, Inc.",CEO,currency fluctuation,neutral
+59.0,"AMETEK, Inc.",CEO,stock price volatility,neutral
+59.0,"AMETEK, Inc.",CFO,acquisition impact,neutral
+59.0,"AMETEK, Inc.",CFO,acquisition impact,neutral
+59.0,"AMETEK, Inc.",CFO,acquisition impact,neutral
+59.0,"AMETEK, Inc.",CEO,acquisition impact,neutral
+59.0,"AMETEK, Inc.",CEO,acquisition impact,neutral
+60.0,Vulcan Materials,CEO,economic uncertainty,neutral
+60.0,Vulcan Materials,CEO,financial market turmoil,neutral
+60.0,Vulcan Materials,CEO,credit standards,neutral
+60.0,Vulcan Materials,CEO,demand weakness,neutral
+60.0,Vulcan Materials,CEO,lower volumes,neutral
+60.0,Vulcan Materials,CEO,price improvement,neutral
+60.0,Vulcan Materials,CEO,cost control,neutral
+60.0,Vulcan Materials,CEO,fuel cost,neutral
+60.0,Vulcan Materials,CEO,unit variable production cost,neutral
+60.0,Vulcan Materials,CEO,cost control,neutral
+60.0,Vulcan Materials,CEO,aggregate shipments,neutral
+60.0,Vulcan Materials,CEO,aggregate shipments,neutral
+60.0,Vulcan Materials,CEO,aggregate prices,neutral
+60.0,Vulcan Materials,CEO,asphalt volumes,neutral
+60.0,Vulcan Materials,CEO,asphalt prices,neutral
+60.0,Vulcan Materials,CEO,asphalt prices,neutral
+60.0,Vulcan Materials,CEO,liquid asphalt prices,neutral
+61.0,FLIR Systems,CEO,economic,neutral
+61.0,FLIR Systems,CEO,currency,neutral
+61.0,FLIR Systems,CEO,business unit,neutral
+61.0,FLIR Systems,CEO,business unit,neutral
+62.0,eBay,CEO,competitive environment,neutral
+62.0,eBay,CFO,"regulatory tax, IP and litigation risks",neutral
+62.0,eBay,CFO,technology infrastructure,neutral
+62.0,eBay,CFO,foreign exchange rate fluctuations,neutral
+62.0,eBay,CFO,"political, business, and economic conditions",neutral
+62.0,eBay,CFO,business model expansion,neutral
+62.0,eBay,CFO,integration of acquisitions,neutral
+63.0,NIKE,CEO,exchange rate fluctuations,neutral
+63.0,NIKE,CEO,order cancellations and discounts,neutral
+63.0,NIKE,CEO,rising cost environment,neutral
+63.0,NIKE,CEO,building profitable new store concepts,neutral
+64.0,Allegheny Technologies,CEO,demand,neutral
+64.0,Allegheny Technologies,CFO,operational,neutral
+64.0,Allegheny Technologies,CEO,demand,neutral
+64.0,Allegheny Technologies,CFO,operational,neutral
+64.0,Allegheny Technologies,CEO,demand,neutral
+65.0,Symantec,"Vice President, Investor Relations",economic,neutral
+66.0,RR Donnelley,CEO,economic downturn,neutral
+66.0,RR Donnelley,CEO,competitive,neutral
+66.0,RR Donnelley,CEO,competitive,neutral
+66.0,RR Donnelley,CEO,economic downturn,neutral
+67.0,Expedia Inc,CEO,market uncertainty,neutral
+67.0,Expedia Inc,CEO,air carrier capacity reduction,neutral
+67.0,Expedia Inc,CEO,consumer behavior,neutral
+67.0,Expedia Inc,CEO,macroeconomic conditions,neutral
+67.0,Expedia Inc,CEO,competitive landscape,neutral
+68.0,PPG Industries,CEO,economic downturn,negative
+68.0,PPG Industries,CEO,market decline,negative
+68.0,PPG Industries,CEO,industry activity,negative
+68.0,PPG Industries,CEO,operating losses,negative
+68.0,PPG Industries,CEO,economic conditions,negative
+68.0,PPG Industries,CEO,inflation,negative
+69.0,CBS Corporation,Executive Vice President of Investor Relations,financial,neutral
+69.0,CBS Corporation,Executive Chairman,financial,neutral
+69.0,CBS Corporation,President and Chief Executive Officer,financial,neutral
+69.0,CBS Corporation,Executive Vice President and Chief Financial Officer,financial,neutral
+69.0,National Amusements,Executive Chairman,financial,neutral
+69.0,National Amusements,President and Chief Executive Officer,financial,neutral
+69.0,National Amusements,Executive Vice President and Chief Financial Officer,financial,neutral
+69.0,National Amusements,Executive Chairman,financial,neutral
+69.0,National Amusements,President and Chief Executive Officer,financial,neutral
+69.0,National Amusements,Executive Vice President and Chief Financial Officer,financial,neutral
+69.0,National Amusements,Executive Chairman,financial,neutral
+69.0,National Amusements,President and Chief Executive Officer,financial,neutral
+69.0,National Amusements,Executive Vice President and Chief Financial Officer,financial,neutral
+70.0,Nucor Corporation,"Daniel R. DiMicco - Chairman, President and Chief Executive Officer",raw material cost,neutral
+70.0,Nucor Corporation,"Daniel R. DiMicco - Chairman, President and Chief Executive Officer",raw material cost,neutral
+70.0,Nucor Corporation,"Daniel R. DiMicco - Chairman, President and Chief Executive Officer",inventory valuation,neutral
+71.0,United States Steel Corporation,CEO,market conditions,neutral
+72.0,Cincinnati Financial,CEO,management transition,neutral
+72.0,Cincinnati Financial,CFO,new financial leadership,neutral
+72.0,Cincinnati Financial,CEO,forward-looking statements,neutral
+73.0,Interpublic Group,CEO,economic slowdown,neutral
+73.0,Interpublic Group,CEO,client spend,neutral
+73.0,Interpublic Group,CEO,volatile business environment,neutral
+74.0,Johnson Controls,Operator,economic uncertainty,neutral
+74.0,Johnson Controls,Glen Ponczak,economic uncertainty,neutral
+74.0,Johnson Controls,Steve Roell,economic uncertainty,neutral
+74.0,Johnson Controls,Steve Roell,commodity price fluctuation,neutral
+74.0,Johnson Controls,Steve Roell,acquisition integration,neutral
+75.0,Cisco Systems,John Chambers,forward-looking statements,neutral
+75.0,Cisco Systems,John Chambers,material event or acquisition,neutral
+76.0,Yum! Brands,CEO,economic trends,neutral
+76.0,Yum! Brands,CEO,lapped year-ago results,neutral
+77.0,Stanley Works,CEO,volume decline,neutral
+77.0,Stanley Works,CEO,macroeconomic conditions,neutral
+77.0,Stanley Works,CEO,volume decline,neutral
+77.0,Stanley Works,CEO,volume decline,neutral
+78.0,Goldman Sachs,CEO,market volatility,neutral
+78.0,Goldman Sachs,CFO,credit risk,neutral
+78.0,Goldman Sachs,CFO,asset price decline,neutral
+78.0,Goldman Sachs,CFO,illiquidity,neutral
+78.0,Goldman Sachs,CFO,credit risk,neutral
+78.0,Goldman Sachs,CFO,default risk,neutral
+78.0,Goldman Sachs,CFO,market volatility,neutral
+78.0,Goldman Sachs,CFO,market volatility,neutral
+79.0,Host Hotels & Resorts,CEO,economic,neutral
+79.0,Host Hotels & Resorts,CFO,operational,neutral
+79.0,Host Hotels & Resorts,CEO,market,neutral
+79.0,Host Hotels & Resorts,CFO,financial,neutral
+79.0,Host Hotels & Resorts,CEO,market,neutral
+79.0,Host Hotels & Resorts,CFO,operational,neutral
+79.0,Host Hotels & Resorts,CEO,market,neutral
+79.0,Host Hotels & Resorts,CFO,operational,neutral
+79.0,Host Hotels & Resorts,CEO,market,neutral
+79.0,Host Hotels & Resorts,CFO,operational,neutral
+80.0,Duke Energy,"Senior VP, IR and Financial Planning",neutral,neutral
+80.0,Duke Energy,"Chairman, President and CEO",neutral,neutral
+80.0,Duke Energy,Group Executive and Chief Financial Officer,neutral,neutral
+80.0,Duke Energy,"Chairman, President and CEO",neutral,neutral
+80.0,Duke Energy,Group Executive and Chief Financial Officer,neutral,neutral
+81.0,TSYS,CEO,operational,neutral
+81.0,TSYS,CEO,operational,neutral
+81.0,TSYS,CEO,market,neutral
+81.0,TSYS,CFO,operational,neutral
+82.0,"Alexandria Real Estate Equities, Inc.",CEO,economic downturn,neutral
+82.0,"Alexandria Real Estate Equities, Inc.",CEO,interest rates,neutral
+82.0,"Alexandria Real Estate Equities, Inc.",CEO,tenant financial health,neutral
+82.0,"Alexandria Real Estate Equities, Inc.",CEO,capital expenditure,neutral
+82.0,"Alexandria Real Estate Equities, Inc.",CEO,tenant financial health,neutral
+82.0,"Alexandria Real Estate Equities, Inc.",CEO,cost of capital,neutral
+83.0,Murphy Oil Corporation,CEO,market price,neutral
+83.0,Murphy Oil Corporation,CFO,market price,neutral
+83.0,Murphy Oil Corporation,CEO,operational,neutral
+83.0,Murphy Oil Corporation,CFO,operational,neutral
+83.0,Murphy Oil Corporation,CEO,operational,neutral
+83.0,Murphy Oil Corporation,CFO,operational,neutral
+83.0,Murphy Oil Corporation,CEO,market price,neutral
+83.0,Murphy Oil Corporation,CFO,market price,neutral
+83.0,Murphy Oil Corporation,CEO,operational,neutral
+83.0,Murphy Oil Corporation,CFO,market price,neutral
+83.0,Murphy Oil Corporation,CEO,operational,neutral
+83.0,Murphy Oil Corporation,CFO,market price,neutral
+84.0,Kansas City Southern,CEO,operational,neutral
+84.0,Kansas City Southern,CEO,operational,neutral
+84.0,Kansas City Southern,CFO,operational,neutral
+84.0,Kansas City Southern,CEO,financial,neutral
+84.0,Kansas City Southern,CEO,operational,neutral
+85.0,Bunge Global SA,CEO,market volatility,neutral
+85.0,Bunge Global SA,CEO,input costs,neutral
+85.0,Bunge Global SA,CEO,political/regulatory,neutral
+85.0,Bunge Global SA,CEO,operational,neutral
+85.0,Bunge Global SA,CFO,currency,neutral
+85.0,Bunge Global SA,CFO,legal/regulatory,neutral
+86.0,Southwest Airlines,CEO,economic downturn,neutral
+87.0,Clorox,VP of IR,margin decline,neutral
+88.0,Darden Restaurants,CEO,acquisition integration,neutral
+88.0,Darden Restaurants,CFO,acquisition integration,neutral
+88.0,Darden Restaurants,CFO,acquisition integration,neutral
+88.0,Darden Restaurants,CFO,litigation,neutral
+88.0,Darden Restaurants,CFO,competition,neutral
+88.0,Darden Restaurants,CFO,economic conditions,neutral
+88.0,Darden Restaurants,CFO,supply chain,neutral
+88.0,Darden Restaurants,CFO,labor costs,neutral
+88.0,Darden Restaurants,CFO,marketing costs,neutral
+88.0,Darden Restaurants,CFO,restaurant operations,neutral
+88.0,Darden Restaurants,CFO,regulatory,neutral
+88.0,Darden Restaurants,CFO,growth objectives,neutral
+88.0,Darden Restaurants,CFO,new concepts,neutral
+88.0,Darden Restaurants,CFO,weather,neutral
+88.0,Darden Restaurants,CFO,debt,neutral
+88.0,Darden Restaurants,CFO,uncertainties,neutral
+89.0,Exelon,CEO,economic conditions,neutral
+89.0,Exelon,CEO,market turbulence,neutral
+89.0,Exelon,CEO,economic conditions,neutral
+89.0,Exelon,CEO,guidance,neutral
+90.0,"BXP, Inc.",Doug Linde,tenant financial distress,neutral
+90.0,"BXP, Inc.",Doug Linde,economic contraction,neutral
+90.0,"BXP, Inc.",Doug Linde,tenant financial distress,neutral
+91.0,Lilly,CEO,competitive developments,neutral
+91.0,Lilly,CEO,new product launches,neutral
+91.0,Lilly,CEO,regulatory and legal matters,neutral
+91.0,Lilly,CEO,patent disputes,neutral
+91.0,Lilly,CEO,government investigations,neutral
+91.0,Lilly,CEO,"governmental actions regarding pricing, importation and reimbursement",neutral
+91.0,Lilly,CEO,changes in tax law,neutral
+91.0,Lilly,CEO,acquisitions,neutral
+91.0,Lilly,CEO,business development transactions,neutral
+91.0,Lilly,CEO,exchange rates,neutral
+92.0,Honeywell,CEO,economic conditions,neutral
+92.0,Honeywell,CFO,market softness,neutral
+92.0,Honeywell,CEO,global flight hours,neutral
+92.0,Honeywell,CEO,residential and industrial sensing end markets,neutral
+92.0,Honeywell,CEO,macro trends,neutral
+92.0,Honeywell,CEO,long cycle businesses,neutral
+92.0,Honeywell,CEO,economic conditions,neutral
+92.0,Honeywell,CEO,investments,neutral
+93.0,"Franklin Resources, Inc.",CEO,market volatility,neutral
+93.0,"Franklin Resources, Inc.",CEO,market performance,neutral
+93.0,"Franklin Resources, Inc.",CEO,market performance,neutral
+93.0,"Franklin Resources, Inc.",CEO,market volatility,neutral
+93.0,"Franklin Resources, Inc.",CEO,market performance,neutral
+93.0,"Franklin Resources, Inc.",CEO,market performance,neutral
+93.0,"Franklin Resources, Inc.",CEO,market performance,neutral
+93.0,"Franklin Resources, Inc.",CEO,market performance,neutral
+93.0,"Franklin Resources, Inc.",CEO,market performance,neutral
+93.0,"Franklin Resources, Inc.",CEO,market performance,neutral
+94.0,ICE,CFO,operational,neutral
+94.0,ICE,CFO,financial,neutral
+94.0,ICE,CFO,financial,neutral
+94.0,ICE,CFO,operational,neutral
+95.0,Nucor Corporation,CEO,economic,neutral
+95.0,Nucor Corporation,CFO,economic,neutral
+95.0,Nucor Corporation,COO,economic,neutral
+95.0,Nucor Corporation,EVP,economic,neutral
+95.0,Nucor Corporation,CEO,economic,neutral
+96.0,Assurant,"Senior VP, Investor Relations",economic uncertainty,neutral
+96.0,Assurant,CEO,business decline,neutral
+96.0,Assurant,"CEO, Assurant Solutions",business decline,neutral
+96.0,Assurant,"Interim CFO, Assurant",economic uncertainty,neutral
+96.0,Assurant,"CEO, Assurant Specialty Property",business decline,neutral
+96.0,Assurant,"EVP and Treasurer; President and Chief Investment Officer, Assurant Asset Management",economic uncertainty,neutral
+97.0,Progress Energy,CEO,economic downturn,neutral
+97.0,Progress Energy,CEO,regulatory,neutral
+97.0,Progress Energy,CEO,operational,neutral
+97.0,Progress Energy,CFO,operational,neutral
+97.0,Progress Energy,CEO,regulatory,neutral
+98.0,Noble Corporation,VP of IR and Planning,financial,neutral
+98.0,Noble Corporation,"Chairman of the Board, Chief Executive Officer and President",operational,neutral
+98.0,Noble Corporation,Sr. VP and CFO,financial,neutral
+98.0,Noble Corporation,VP of Worldwide Marketing,market,neutral
+98.0,Noble Corporation,"Chairman of the Board, Chief Executive Officer and President",financial,neutral
+98.0,Noble Corporation,Sr. VP and CFO,financial,neutral
+98.0,Noble Corporation,VP of Worldwide Marketing,market,neutral
+98.0,Noble Corporation,"Chairman of the Board, Chief Executive Officer and President",financial,neutral
+99.0,Eastman Chemical Company,Director of Investor Relations,raw material,neutral
+99.0,Eastman Chemical Company,Chairman and Chief Executive Officer,raw material,neutral
+99.0,Eastman Chemical Company,Chief Financial Officer,raw material,neutral
+99.0,Eastman Chemical Company,"Vice President, Finance",raw material,neutral
+99.0,Eastman Chemical Company,Chairman and Chief Executive Officer,raw material,neutral
+99.0,Eastman Chemical Company,Chief Financial Officer,raw material,neutral
+99.0,Eastman Chemical Company,"Vice President, Finance",raw material,neutral
+99.0,Eastman Chemical Company,Chairman and Chief Executive Officer,raw material,neutral
+100.0,Emerson,CEO,currency fluctuations,neutral
+100.0,Emerson,CFO,divestiture impact,neutral
+100.0,Emerson,Investor Relations,currency fluctuations,neutral
+101.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+101.0,Archer-Daniels-Midland Company,CFO,market,neutral
+101.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+101.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+102.0,KeyCorp,Chairman and Chief Executive Officer,credit uncertainty,neutral
+102.0,KeyCorp,Chief Financial Officer,credit cycle,neutral
+102.0,KeyCorp,Chief Financial Officer,credit costs,neutral
+102.0,KeyCorp,Chief Risk Officer,credit uncertainty,neutral
+103.0,Devon Energy,VP of Communications & IR,accounting,neutral
+103.0,Devon Energy,Chairman & CEO,market,neutral
+103.0,Devon Energy,SVP of E&P,market,neutral
+103.0,Devon Energy,President,accounting,neutral
+103.0,Devon Energy,VP of Communications & IR,market,neutral
+104.0,Molson Coors Brewing Company,CEO,cost inflation,neutral
+104.0,Molson Coors Brewing Company,CFO,cost inflation,neutral
+104.0,Molson Coors Brewing Company,CEO,higher tax rate,neutral
+104.0,Molson Coors Brewing Company,CFO,cost inflation,neutral
+105.0,Fifth Third Bancorp,Senior VP/Investor Relations,credit,negative
+105.0,Fifth Third Bancorp,President and CEO,credit,negative
+105.0,Fifth Third Bancorp,Executive VP and CFO,credit,negative
+105.0,Fifth Third Bancorp,Senior VP/Investor Relations,credit,negative
+106.0,ArvinMeritor,Chip McClure,economic downturn,neutral
+106.0,ArvinMeritor,Chip McClure,customer scheduling fluctuations,neutral
+106.0,ArvinMeritor,Chip McClure,external factors,neutral
+106.0,ArvinMeritor,Chip McClure,economic downturn,neutral
+106.0,ArvinMeritor,Chip McClure,economic downturn,neutral
+106.0,ArvinMeritor,Chip McClure,economic downturn,neutral
+106.0,ArvinMeritor,Chip McClure,economic downturn,neutral
+106.0,ArvinMeritor,Chip McClure,economic downturn,neutral
+106.0,ArvinMeritor,Chip McClure,economic downturn,neutral
+107.0,Bio-Rad Laboratory,Treasurer,forward-looking statements,neutral
+107.0,Bio-Rad Laboratory,CFO,currency fluctuations,neutral
+107.0,Bio-Rad Laboratory,CFO,currency fluctuations,neutral
+107.0,Bio-Rad Laboratory,CFO,purchase accounting,neutral
+107.0,Bio-Rad Laboratory,CFO,historical spending patterns,neutral
+107.0,Bio-Rad Laboratory,CFO,research and development,neutral
+107.0,Bio-Rad Laboratory,CFO,interest income,neutral
+107.0,Bio-Rad Laboratory,CFO,tax rate,neutral
+107.0,Bio-Rad Laboratory,CFO,minority reporting,neutral
+108.0,R.R. Donnelley,CEO,economic downturn,disappointed
+108.0,R.R. Donnelley,CEO,customer cost control,neutral
+108.0,R.R. Donnelley,CEO,customer spending,neutral
+108.0,R.R. Donnelley,CEO,customer program cancellation,neutral
+108.0,R.R. Donnelley,CEO,total cost of ownership,neutral
+109.0,Boston Scientific Corporation,CFO,market share,neutral
+109.0,Boston Scientific Corporation,CFO,regulatory,neutral
+109.0,Boston Scientific Corporation,CFO,financial performance,neutral
+109.0,Boston Scientific Corporation,CFO,product performance,neutral
+109.0,Boston Scientific Corporation,CFO,financial performance,neutral
+110.0,Biogen Inc.,CEO,market_adoption,neutral
+110.0,Biogen Inc.,CEO,regulatory,neutral
+110.0,Biogen Inc.,CEO,competition,neutral
+110.0,Biogen Inc.,CEO,market_adoption,neutral
+110.0,Biogen Inc.,CEO,market_adoption,neutral
+110.0,Biogen Inc.,CEO,market_adoption,neutral
+110.0,Biogen Inc.,CEO,market_adoption,neutral
+110.0,Biogen Inc.,CEO,market_adoption,neutral
+111.0,MasterCard,CEO,economic downturn,neutral
+111.0,MasterCard,CEO,economic downturn,neutral
+111.0,MasterCard,CEO,economic downturn,neutral
+111.0,MasterCard,CEO,economic downturn,neutral
+111.0,MasterCard,CEO,economic downturn,neutral
+111.0,MasterCard,CEO,economic downturn,neutral
+111.0,MasterCard,CEO,economic downturn,neutral
+112.0,Black & Decker,Vice President-Investor Relations & Treasurer,economic downturn,neutral
+113.0,Albemarle Corporation,CEO,economic downturn,neutral
+113.0,Albemarle Corporation,CFO,operational,neutral
+113.0,Albemarle Corporation,CEO,operational,neutral
+113.0,Albemarle Corporation,CFO,restructuring,neutral
+113.0,Albemarle Corporation,CEO,economic downturn,neutral
+113.0,Albemarle Corporation,CFO,operational,neutral
+114.0,Ecolab,"Vice President, External Relations",economic slowdown,neutral
+114.0,Ecolab,"Chairman of the Board, President, and CEO",increased raw material costs,neutral
+114.0,Ecolab,"Vice President, External Relations",challenging end markets,neutral
+114.0,Ecolab,"Chairman of the Board, President, and CEO",increased raw material costs,neutral
+114.0,Ecolab,"Vice President, External Relations",economic slowdown,neutral
+114.0,Ecolab,"Chairman of the Board, President, and CEO",increased raw material costs,neutral
+114.0,Ecolab,"Vice President, External Relations",challenging end markets,neutral
+115.0,The Boeing Company,CEO,operational,neutral
+115.0,The Boeing Company,CFO,operational,neutral
+115.0,The Boeing Company,CEO,market,neutral
+115.0,The Boeing Company,CEO,contractual,neutral
+115.0,The Boeing Company,CEO,operational,neutral
+116.0,Zimmer,VP IR,market,neutral
+116.0,Zimmer,CEO,market,neutral
+116.0,Zimmer,EVP of Finance and CFO,market,neutral
+116.0,Zimmer,VP IR,market,neutral
+117.0,National Oilwell Varco,CEO,financial,neutral
+117.0,National Oilwell Varco,CFO,financial,neutral
+117.0,National Oilwell Varco,President,operational,neutral
+117.0,National Oilwell Varco,CEO,financial,neutral
+117.0,National Oilwell Varco,CFO,financial,neutral
+117.0,National Oilwell Varco,CEO,financial,neutral
+117.0,National Oilwell Varco,CFO,financial,neutral
+117.0,National Oilwell Varco,CEO,operational,neutral
+118.0,Tenet Healthcare Corporation,CEO,volume,neutral
+118.0,Tenet Healthcare Corporation,CFO,volume,neutral
+118.0,Tenet Healthcare Corporation,CEO,volume,neutral
+118.0,Tenet Healthcare Corporation,CFO,volume,neutral
+118.0,Tenet Healthcare Corporation,CEO,volume,neutral
+118.0,Tenet Healthcare Corporation,CFO,volume,neutral
+118.0,Tenet Healthcare Corporation,CEO,volume,neutral
+118.0,Tenet Healthcare Corporation,CFO,volume,neutral
+119.0,"American Electric Power Company, Inc.",CEO,regulatory,neutral
+119.0,"American Electric Power Company, Inc.",CEO,economic,neutral
+119.0,"American Electric Power Company, Inc.",CEO,operational,neutral
+119.0,"American Electric Power Company, Inc.",CEO,economic,neutral
+119.0,"American Electric Power Company, Inc.",CEO,regulatory,neutral
+119.0,"American Electric Power Company, Inc.",CEO,economic,neutral
+120.0,Home Depot,CEO,market conditions,neutral
+121.0,"AvalonBay Communities, Inc.",CEO,economic downturn,neutral
+121.0,"AvalonBay Communities, Inc.",CEO,capital markets,neutral
+121.0,"AvalonBay Communities, Inc.",CEO,consumer confidence,neutral
+121.0,"AvalonBay Communities, Inc.",CEO,economic weakness,neutral
+122.0,Avery Dennison Corporation,CEO,economic downturn,neutral
+122.0,Avery Dennison Corporation,CFO,economic downturn,neutral
+122.0,Avery Dennison Corporation,CEO,cost reduction initiatives,neutral
+122.0,Avery Dennison Corporation,CFO,cost reduction initiatives,neutral
+122.0,Avery Dennison Corporation,CEO,economic downturn,neutral
+122.0,Avery Dennison Corporation,CFO,forecast uncertainty,neutral
+122.0,Avery Dennison Corporation,CEO,raw material and pricing trends,neutral
+123.0,"AMETEK, Inc.",CEO,market conditions,neutral
+123.0,"AMETEK, Inc.",CEO,foreign currency,neutral
+123.0,"AMETEK, Inc.",CFO,operational,neutral
+123.0,"AMETEK, Inc.",CEO,operational,neutral
+123.0,"AMETEK, Inc.",CFO,operational,neutral
+123.0,"AMETEK, Inc.",CEO,operational,neutral
+123.0,"AMETEK, Inc.",CFO,operational,neutral
+123.0,"AMETEK, Inc.",CEO,operational,neutral
+123.0,"AMETEK, Inc.",CFO,operational,neutral
+123.0,"AMETEK, Inc.",CEO,operational,neutral
+123.0,"AMETEK, Inc.",CFO,operational,neutral
+123.0,"AMETEK, Inc.",CEO,operational,neutral
+124.0,"Becton, Dickinson and Company",Director of IR,uncertainty,neutral
+124.0,"Becton, Dickinson and Company",Chief Financial Officer,uncertainty,neutral
+124.0,"Becton, Dickinson and Company","Chairman, CEO and President",uncertainty,neutral
+124.0,"Becton, Dickinson and Company",EVP,uncertainty,neutral
+124.0,"Becton, Dickinson and Company",Chief Financial Officer and Senior Vice President,uncertainty,neutral
+124.0,"Becton, Dickinson and Company","Chairman, President and CEO",uncertainty,neutral
+124.0,"Becton, Dickinson and Company",EVP,uncertainty,neutral
+124.0,"Becton, Dickinson and Company",Chief Financial Officer and Senior Vice President,uncertainty,neutral
+125.0,"American Water Works Company, Inc.",CEO,economic downturn,neutral
+125.0,"American Water Works Company, Inc.",CEO,credit scarcity,neutral
+125.0,"American Water Works Company, Inc.",CEO,stock market conditions,neutral
+126.0,NASDAQOMX,Vice President Investor Relations,strategic,neutral
+126.0,NASDAQOMX,Chief Executive Officer,strategic,neutral
+126.0,NASDAQOMX,Chief Financial Officer,operational,neutral
+126.0,NASDAQOMX,President,operational,neutral
+126.0,NASDAQOMX,General Counsel,regulatory,neutral
+126.0,NASDAQOMX,Chief Executive Officer,strategic,neutral
+126.0,NASDAQOMX,Chief Financial Officer,operational,neutral
+126.0,NASDAQOMX,President,operational,neutral
+126.0,NASDAQOMX,General Counsel,regulatory,neutral
+126.0,NASDAQOMX,Chief Executive Officer,strategic,neutral
+126.0,NASDAQOMX,Chief Financial Officer,operational,neutral
+126.0,NASDAQOMX,President,operational,neutral
+126.0,NASDAQOMX,General Counsel,regulatory,neutral
+126.0,NASDAQOMX,Chief Executive Officer,strategic,neutral
+126.0,NASDAQOMX,Chief Financial Officer,operational,neutral
+126.0,NASDAQOMX,President,operational,neutral
+126.0,NASDAQOMX,General Counsel,regulatory,neutral
+127.0,New York Times,CEO,economic slowdown,neutral
+127.0,New York Times,CFO,industry secular forces,neutral
+127.0,New York Times,CEO,industry challenges,neutral
+127.0,New York Times,CEO,brand strength,neutral
+127.0,New York Times,CFO,cost reduction,neutral
+128.0,Schlumberger Limited,"Vice President, Investor Relations",operational,neutral
+129.0,Spectra Energy,CEO,financial,neutral
+129.0,Spectra Energy,CEO,operational,neutral
+129.0,Spectra Energy,CEO,financial,neutral
+129.0,Spectra Energy,CEO,financial,neutral
+129.0,Spectra Energy,CEO,financial,neutral
+130.0,JDSU,CEO,market fluctuations,neutral
+130.0,JDSU,CEO,market fluctuations,neutral
+131.0,Hartford,CEO,market risk,neutral
+131.0,Hartford,CEO,investment risk,neutral
+131.0,Hartford,CEO,investment risk,neutral
+131.0,Hartford,CEO,investment risk,neutral
+131.0,Hartford,CEO,investment risk,neutral
+132.0,Travelers,"Vice President, Investor Relations",market conditions,neutral
+132.0,Travelers,"Vice President, Investor Relations",forward-looking statements,neutral
+132.0,Travelers,"Vice President, Investor Relations",market conditions,neutral
+132.0,Travelers,"Vice President, Investor Relations",reserve adequacy,neutral
+133.0,GM,Executive Director Investor Relations and Financial Communications,industry downturn,neutral
+133.0,GM,"President, Chief Operating Officer",industry downturn,neutral
+133.0,GM,"Chief Financial Officer, Executive Vice President",industry downturn,neutral
+133.0,GM,Treasurer,industry downturn,neutral
+133.0,GM,Executive Director Investor Relations and Financial Communications,industry downturn,neutral
+133.0,GM,"President, Chief Operating Officer",industry downturn,neutral
+133.0,GM,"Chief Financial Officer, Executive Vice President",industry downturn,neutral
+133.0,GM,Treasurer,industry downturn,neutral
+133.0,GM,Executive Director Investor Relations and Financial Communications,industry downturn,neutral
+133.0,GM,"President, Chief Operating Officer",industry downturn,neutral
+133.0,GM,"Chief Financial Officer, Executive Vice President",industry downturn,neutral
+133.0,GM,Treasurer,industry downturn,neutral
+133.0,GM,Executive Director Investor Relations and Financial Communications,industry downturn,neutral
+133.0,GM,"President, Chief Operating Officer",industry downturn,neutral
+133.0,GM,"Chief Financial Officer, Executive Vice President",industry downturn,neutral
+133.0,GM,Treasurer,industry downturn,neutral
+134.0,Occidental,CEO,market price,neutral
+135.0,Intuitive Surgical,CEO,execution,neutral
+135.0,Intuitive Surgical,CFO,execution,neutral
+135.0,Intuitive Surgical,"VP, Business Development and Strategic Planning",execution,neutral
+136.0,None,CEO,economic slowdown,neutral
+136.0,None,CEO,financial services,neutral
+136.0,None,CEO,market disruption,neutral
+136.0,None,CEO,economic slowdown,neutral
+136.0,None,CEO,financial services,neutral
+136.0,None,CEO,financial services,neutral
+136.0,None,CEO,market disruption,neutral
+137.0,Big Lots,Steve Fishman,macroeconomic,neutral
+137.0,Big Lots,Steve Fishman,competitive,neutral
+137.0,Big Lots,Steve Fishman,operational,neutral
+137.0,Big Lots,Steve Fishman,competitive,neutral
+137.0,Big Lots,Steve Fishman,macroeconomic,neutral
+137.0,Big Lots,Steve Fishman,competitive,neutral
+137.0,Big Lots,Steve Fishman,operational,neutral
+138.0,Unum Group,CEO,market,neutral
+138.0,Unum Group,CFO,operational,neutral
+138.0,Unum Group,Analyst,operational,neutral
+138.0,Unum Group,Analyst,market,neutral
+138.0,Unum Group,Analyst,operational,neutral
+139.0,Sherwin-Williams Company,CEO,sales decline,neutral
+139.0,Sherwin-Williams Company,CFO,gross margin decrease,neutral
+139.0,Sherwin-Williams Company,CFO,impairment charge,neutral
+139.0,Sherwin-Williams Company,CFO,profit before taxes decrease,neutral
+139.0,Sherwin-Williams Company,CFO,net income decrease,neutral
+139.0,Sherwin-Williams Company,CFO,net income per share decrease,neutral
+139.0,Sherwin-Williams Company,CFO,sales decline,neutral
+139.0,Sherwin-Williams Company,CFO,sales decline,neutral
+140.0,FirstEnergy Corp,Senior Vice President and Chief Financial Officer,fuel cost,neutral
+140.0,FirstEnergy Corp,Senior Vice President and Chief Financial Officer,regulatory,neutral
+140.0,FirstEnergy Corp,Senior Vice President and Chief Financial Officer,operational,neutral
+140.0,FirstEnergy Corp,Senior Vice President and Chief Financial Officer,regulatory,neutral
+140.0,FirstEnergy Corp,Senior Vice President and Chief Financial Officer,operational,neutral
+140.0,FirstEnergy Corp,Senior Vice President and Chief Financial Officer,operational,neutral
+140.0,FirstEnergy Corp,Senior Vice President and Chief Financial Officer,operational,neutral
+141.0,Avery Dennison Corporation,Investor Relations,economic downturn,neutral
+141.0,Avery Dennison Corporation,CEO,market conditions,neutral
+141.0,Avery Dennison Corporation,CFO,market conditions,neutral
+141.0,Avery Dennison Corporation,Investor Relations,market conditions,neutral
+141.0,Avery Dennison Corporation,CEO,market conditions,neutral
+141.0,Avery Dennison Corporation,CFO,product mix,neutral
+141.0,Avery Dennison Corporation,Investor Relations,currency fluctuations,neutral
+141.0,Avery Dennison Corporation,Investor Relations,product mix,neutral
+142.0,Xcel Energy,Managing Director of IR,operational,neutral
+143.0,Office Depot,CEO,economic downturn,neutral
+143.0,Office Depot,CEO,margin compression,neutral
+143.0,Office Depot,CEO,margin compression,neutral
+143.0,Office Depot,CEO,sales performance,neutral
+143.0,Office Depot,CEO,margin compression,neutral
+143.0,Office Depot,CEO,shrink,neutral
+143.0,Office Depot,CEO,legal expenses,neutral
+144.0,"American Water Works Company, Inc.",CEO,regulatory,neutral
+144.0,"American Water Works Company, Inc.",CFO,regulatory,neutral
+144.0,"American Water Works Company, Inc.",Investor Relations,regulatory,neutral
+144.0,"American Water Works Company, Inc.",CEO,operational,neutral
+144.0,"American Water Works Company, Inc.",CFO,operational,neutral
+144.0,"American Water Works Company, Inc.",Investor Relations,operational,neutral
+144.0,"American Water Works Company, Inc.",CEO,operational,neutral
+144.0,"American Water Works Company, Inc.",CFO,operational,neutral
+144.0,"American Water Works Company, Inc.",Investor Relations,operational,neutral
+144.0,"American Water Works Company, Inc.",CEO,operational,neutral
+144.0,"American Water Works Company, Inc.",CFO,operational,neutral
+144.0,"American Water Works Company, Inc.",Investor Relations,operational,neutral
+144.0,"American Water Works Company, Inc.",CEO,operational,neutral
+144.0,"American Water Works Company, Inc.",CFO,operational,neutral
+145.0,Devon Energy,Vice President of Communication and Investor Relations,financial,neutral
+145.0,Devon Energy,President,financial,neutral
+145.0,Devon Energy,Vice President of Communication and Investor Relations,operational,neutral
+145.0,Devon Energy,Vice President of Communication and Investor Relations,financial,neutral
+145.0,Devon Energy,President,financial,neutral
+145.0,Devon Energy,Vice President of Communication and Investor Relations,financial,neutral
+145.0,Devon Energy,Vice President of Communication and Investor Relations,operational,neutral
+146.0,Archer-Daniels-Midland Company,CEO,commodity price volatility,neutral
+146.0,Archer-Daniels-Midland Company,CEO,market conditions,neutral
+146.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+146.0,Archer-Daniels-Midland Company,CEO,market conditions,neutral
+146.0,Archer-Daniels-Midland Company,CEO,commodity price volatility,neutral
+146.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+146.0,Archer-Daniels-Midland Company,CEO,commodity price volatility,neutral
+146.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+146.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+146.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+146.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+146.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+146.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+146.0,Archer-Daniels-Midland Company,CEO,operational,neutral
+147.0,CenterPoint Energy,CEO,natural disaster,neutral
+147.0,CenterPoint Energy,CEO,operational,neutral
+147.0,CenterPoint Energy,CEO,operational,neutral
+147.0,CenterPoint Energy,CEO,financial,neutral
+148.0,Brown-Forman Corporation,CEO,economic downturn,neutral
+148.0,Brown-Forman Corporation,CFO,market conditions,neutral
+148.0,Brown-Forman Corporation,CFO,competitive landscape,neutral
+148.0,Brown-Forman Corporation,CFO,brand performance,neutral
+148.0,Brown-Forman Corporation,CFO,brand performance,neutral
+149.0,Pulte Homes Inc.,CEO,market conditions,neutral
+149.0,Pulte Homes Inc.,CEO,market conditions,neutral
+149.0,Pulte Homes Inc.,CEO,economic conditions,neutral
+149.0,Pulte Homes Inc.,CEO,foreclosure rates,neutral
+149.0,Pulte Homes Inc.,CEO,supply and demand,neutral
+149.0,Pulte Homes Inc.,CEO,uncertainty,neutral
+150.0,Zions Bancorp,CEO,securities portfolio,neutral
+150.0,Zions Bancorp,CEO,operational,neutral
+150.0,Zions Bancorp,CEO,operational,neutral
+150.0,Zions Bancorp,CFO,securities portfolio,neutral
+151.0,People’s United Financial,CEO,market volatility,neutral
+151.0,People’s United Financial,CEO,asset sensitivity,neutral
+151.0,People’s United Financial,CEO,acquisition risk,neutral
+151.0,People’s United Financial,CEO,economic outlook,neutral
+152.0,Equifax,"SVP, IR",economic environment,neutral
+152.0,Equifax,Chair and CEO,economic environment,neutral
+152.0,Equifax,Chief Financial Officer,economic environment,neutral
+152.0,Equifax,"SVP, IR",economic environment,neutral
+152.0,Equifax,Chair and CEO,economic environment,neutral
+152.0,Equifax,Chief Financial Officer,economic environment,neutral
+152.0,Equifax,"SVP, IR",economic environment,neutral
+152.0,Equifax,Chair and CEO,economic environment,neutral
+152.0,Equifax,Chief Financial Officer,economic environment,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",Investor Relations,macroeconomic,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",Chief Executive Officer,macroeconomic,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",Chief Financial Officer,macroeconomic,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",President,operational,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",Chief Executive Officer,macroeconomic,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",Chief Financial Officer,operational,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",President,operational,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",Chief Executive Officer,macroeconomic,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",Chief Financial Officer,operational,neutral
+153.0,"Alexandria Real Estate Equities, Inc.",President,operational,neutral
+154.0,"Ryder System, Inc.",CEO,financial,neutral
+154.0,"Ryder System, Inc.",CFO,financial,neutral
+154.0,"Ryder System, Inc.",CEO,operational,neutral
+154.0,"Ryder System, Inc.",CFO,financial,neutral
+154.0,"Ryder System, Inc.",CEO,operational,neutral
+155.0,Adobe Inc.,"VP, Investor Relations",forward-looking statements,neutral
+155.0,Adobe Inc.,President and Chief Executive Officer,forward-looking statements,neutral
+155.0,Adobe Inc.,Executive Vice President and Chief Financial Officer,forward-looking statements,neutral
+156.0,None,Company Representative,financial,neutral
+156.0,None,Company Representative,market,neutral
+156.0,None,Company Representative,operational,neutral
+157.0,None,CEO,financial,neutral
+157.0,None,CFO,financial,neutral
+157.0,None,CFO,financial,neutral
+157.0,None,CFO,financial,neutral
+157.0,None,CFO,financial,neutral
+158.0,Fortune Brands,CEO,economic downturn,neutral
+158.0,Fortune Brands,CEO,uncertainty,neutral
+158.0,Fortune Brands,CEO,cost realignment,neutral
+158.0,Fortune Brands,CEO,inventory reduction,neutral
+158.0,Fortune Brands,CEO,market conditions,neutral
+158.0,Fortune Brands,CEO,workforce reduction,neutral
+158.0,Fortune Brands,CEO,market demand,neutral
+158.0,Fortune Brands,CEO,foreign exchange,neutral
+158.0,Fortune Brands,CEO,tax increase,neutral
+159.0,VeriSign,Operator,economic uncertainty,neutral
+159.0,VeriSign,Jim Bidzos,economic uncertainty,neutral
+159.0,VeriSign,Jim Bidzos,market volatility,neutral
+159.0,VeriSign,Jim Bidzos,investment write-down,neutral
+160.0,Wisconsin Energy,CEO,financial,down
+160.0,Wisconsin Energy,CEO,operational,neutral
+160.0,Wisconsin Energy,CEO,economic,neutral
+160.0,Wisconsin Energy,CEO,operational,neutral
+160.0,Wisconsin Energy,CEO,financial,neutral
+160.0,Wisconsin Energy,CEO,operational,neutral
+161.0,APA Corporation,CEO,operational,neutral
+162.0,EW Scripps Company,CEO,business,neutral
+163.0,"Conagra Brands, Inc.",CEO,inflation,neutral
+163.0,"Conagra Brands, Inc.",CFO,commodity volatility,neutral
+163.0,"Conagra Brands, Inc.",Legal and Communications,operational,neutral
+163.0,"Conagra Brands, Inc.",Commercial Operations,operational,neutral
+163.0,"Conagra Brands, Inc.",Sales,inflation,neutral
+163.0,"Conagra Brands, Inc.",Investor Relations,operational,neutral
+163.0,"Conagra Brands, Inc.",CEO,inflation,neutral
+163.0,"Conagra Brands, Inc.",Investor Relations,operational,neutral
+163.0,"Conagra Brands, Inc.",CEO,inflation,neutral
+164.0,"Autodesk, Inc.",VP of Finance & Investor Relations,financial performance,neutral
+164.0,"Autodesk, Inc.","President, Chief Executive Officer & Director",financial performance,neutral
+164.0,"Autodesk, Inc.",Chief Financial Officer & Senior Vice President,financial performance,neutral
+164.0,"Autodesk, Inc.",VP of Finance & Investor Relations,financial performance,neutral
+164.0,"Autodesk, Inc.","President, Chief Executive Officer & Director",financial performance,neutral
+164.0,"Autodesk, Inc.",Chief Financial Officer & Senior Vice President,financial performance,neutral
+164.0,"Autodesk, Inc.",VP of Finance & Investor Relations,financial performance,neutral
+164.0,"Autodesk, Inc.","President, Chief Executive Officer & Director",financial performance,neutral
+164.0,"Autodesk, Inc.",Chief Financial Officer & Senior Vice President,financial performance,neutral
+164.0,"Autodesk, Inc.",VP of Finance & Investor Relations,financial performance,neutral
+164.0,"Autodesk, Inc.","President, Chief Executive Officer & Director",financial performance,neutral
+164.0,"Autodesk, Inc.",Chief Financial Officer & Senior Vice President,financial performance,neutral
+165.0,Arch Capital Group Ltd.,CEO,economic conditions,neutral
+165.0,Arch Capital Group Ltd.,CEO,cat losses,neutral
+165.0,Arch Capital Group Ltd.,CEO,investment performance,neutral
+165.0,Arch Capital Group Ltd.,CEO,cat losses,neutral
+165.0,Arch Capital Group Ltd.,CEO,book value decline,neutral
+165.0,Arch Capital Group Ltd.,CEO,investment portfolio losses,neutral
+166.0,Dominion,"Director, IR",weather,neutral
+166.0,Dominion,Executive Vice President and Chief Financial Officer,weather,neutral
+166.0,Dominion,"Director, IR",tax,neutral
+166.0,Dominion,Executive Vice President and Chief Financial Officer,weather,neutral
+166.0,Dominion,"Director, IR",tax,neutral
+167.0,Atmos Energy Corporation,CEO,market volatility,neutral
+167.0,Atmos Energy Corporation,CEO,regulatory,neutral
+167.0,Atmos Energy Corporation,CEO,customer concentration,neutral
+167.0,Atmos Energy Corporation,CEO,regulatory,neutral
+168.0,Flowserve,CEO,financial,neutral
+168.0,Flowserve,CFO,financial,neutral
+168.0,Flowserve,CEO,operational,neutral
+168.0,Flowserve,CEO,operational,neutral
+168.0,Flowserve,CEO,financial,neutral
+168.0,Flowserve,CEO,financial,neutral
+169.0,Northern Trust Corporation,CFO,market volatility,neutral
+169.0,Northern Trust Corporation,CFO,interest rates,neutral
+169.0,Northern Trust Corporation,CFO,credit environment,neutral
+169.0,Northern Trust Corporation,CFO,currency volatility,neutral
+169.0,Northern Trust Corporation,CFO,economic climate,neutral
+169.0,Northern Trust Corporation,CFO,market volatility,neutral
+171.0,The Bank of New York Mellon Corporation,CEO,market,neutral
+171.0,The Bank of New York Mellon Corporation,CFO,market,neutral
+171.0,The Bank of New York Mellon Corporation,CEO,market,neutral
+171.0,The Bank of New York Mellon Corporation,CFO,credit,neutral
+171.0,The Bank of New York Mellon Corporation,CEO,market,neutral
+171.0,The Bank of New York Mellon Corporation,CFO,credit,neutral
+171.0,The Bank of New York Mellon Corporation,CEO,market,neutral
+171.0,The Bank of New York Mellon Corporation,CFO,market,neutral
+172.0,Northrup Grumman,CEO,market fluctuations,neutral
+172.0,Northrup Grumman,CEO,operational,neutral
+172.0,Northrup Grumman,CFO,market fluctuations,neutral
+172.0,Northrup Grumman,CEO,competitive,neutral
+172.0,Northrup Grumman,CEO,competitive,neutral
+172.0,Northrup Grumman,CEO,competitive,neutral
+172.0,Northrup Grumman,CFO,operational,neutral
+172.0,Northrup Grumman,CEO,competitive,neutral
+172.0,Northrup Grumman,CFO,operational,neutral
+172.0,Northrup Grumman,CEO,competitive,neutral
+172.0,Northrup Grumman,CFO,operational,neutral
+173.0,State Street,CEO,market volatility,neutral
+173.0,State Street,CFO,market volatility,neutral
+173.0,State Street,CEO,market volatility,neutral
+173.0,State Street,CFO,market volatility,neutral
+173.0,State Street,CEO,market volatility,neutral
+173.0,State Street,CFO,market volatility,neutral
+173.0,State Street,CEO,market volatility,neutral
+173.0,State Street,CFO,market volatility,neutral
+173.0,State Street,CEO,market volatility,neutral
+173.0,State Street,CFO,market volatility,neutral
+174.0,Rock-Tenn,VP and Treasurer,operational,neutral
+175.0,AIG,CEO,financial,neutral
+175.0,AIG,CFO,financial,neutral
+175.0,AIG,CRO,financial,neutral
+175.0,AIG,CEO,operational,neutral
+175.0,AIG,CFO,financial,neutral
+176.0,DTE Energy,CFO,market conditions,neutral
+176.0,DTE Energy,CFO,market conditions,neutral
+176.0,DTE Energy,CFO,customer satisfaction,neutral
+176.0,DTE Energy,CFO,regulatory,neutral
+176.0,DTE Energy,CFO,market conditions,neutral
+176.0,DTE Energy,CFO,market conditions,neutral
+176.0,DTE Energy,CFO,market conditions,neutral
+177.0,Pitney Bowes,"VP, IR",political or economic conditions,neutral
+177.0,Pitney Bowes,President and CEO,changes in political or economic conditions,neutral
+177.0,Pitney Bowes,EVP and CFO,changes in political or economic conditions,neutral
+177.0,Pitney Bowes,"VP, IR",changes in political or economic conditions,neutral
+177.0,Pitney Bowes,President and CEO,changes in political or economic conditions,neutral
+177.0,Pitney Bowes,EVP and CFO,changes in political or economic conditions,neutral
+177.0,Pitney Bowes,"VP, IR",changes in political or economic conditions,neutral
+177.0,Pitney Bowes,President and CEO,changes in political or economic conditions,neutral
+177.0,Pitney Bowes,EVP and CFO,changes in political or economic conditions,neutral
+177.0,Pitney Bowes,"VP, IR",changes in political or economic conditions,neutral
+177.0,Pitney Bowes,President and CEO,changes in political or economic conditions,neutral
+177.0,Pitney Bowes,EVP and CFO,changes in political or economic conditions,neutral
+178.0,AIG,"VP and Director, Investor Relations",market,neutral
+178.0,AIG,"President, Chief Executive Officer",market,neutral
+178.0,AIG,"VP and Director, Investor Relations",market,neutral
+179.0,GE,Chairman and CEO,global financial system volatility,neutral
+179.0,GE,Chairman and CEO,consumer confidence,neutral
+179.0,GE,Chairman and CEO,unemployment,neutral
+179.0,GE,Chairman and CEO,portfolio volatility,neutral
+179.0,GE,Chairman and CEO,financial turmoil,neutral
+179.0,GE,Chairman and CEO,weak industrial business,neutral
+180.0,DaVita,LeAnne Zumwalt,regulatory,neutral
+180.0,DaVita,Richard K. Whitney,pharmaceutical,neutral
+180.0,DaVita,Richard K. Whitney,payer,neutral
+180.0,DaVita,Richard K. Whitney,pharmaceutical,negative
+180.0,DaVita,Richard K. Whitney,regulatory,negative
+180.0,DaVita,Richard K. Whitney,operational,neutral
+181.0,Sempra Energy,CEO,commodity price volatility,neutral
+181.0,Sempra Energy,CEO,regulatory risk,neutral
+181.0,Sempra Energy,CFO,regulatory risk,neutral
+181.0,Sempra Energy,CEO,commodity price volatility,neutral
+181.0,Sempra Energy,CFO,regulatory risk,neutral
+181.0,Sempra Energy,CEO,commodity price volatility,neutral
+181.0,Sempra Energy,CFO,regulatory risk,neutral
+182.0,Adobe Inc.,CEO,forward-looking statement,neutral
+182.0,Adobe Inc.,CEO,market demand,neutral
+182.0,Adobe Inc.,CFO,market demand,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+183.0,Xcel Energy,CFO,operational,neutral
+184.0,The Allstate Corporation,CEO,catastrophe losses,neutral
+184.0,The Allstate Corporation,CEO,investment portfolio,neutral
+184.0,The Allstate Corporation,CEO,capital markets,neutral
+185.0,Noble Energy,CEO,uncertainties,neutral
+185.0,Noble Energy,CEO,operational,neutral
+185.0,Noble Energy,CEO,uncertainties,neutral
+185.0,Noble Energy,CEO,operational,neutral
+185.0,Noble Energy,CEO,uncertainties,neutral
+186.0,Darden Restaurants,CEO,acquisition,neutral
+186.0,Darden Restaurants,CFO,acquisition,neutral
+186.0,Darden Restaurants,CEO,competition,neutral
+186.0,Darden Restaurants,CEO,economic conditions,neutral
+186.0,Darden Restaurants,CEO,food costs,neutral
+186.0,Darden Restaurants,CEO,labor costs,neutral
+186.0,Darden Restaurants,CEO,marketing costs,neutral
+186.0,Darden Restaurants,CEO,restaurant operations,neutral
+186.0,Darden Restaurants,CEO,litigation,neutral
+186.0,Darden Restaurants,CEO,publicity,neutral
+186.0,Darden Restaurants,CEO,location,neutral
+186.0,Darden Restaurants,CEO,growth objectives,neutral
+186.0,Darden Restaurants,CEO,weather,neutral
+186.0,Darden Restaurants,CEO,new concepts,neutral
+186.0,Darden Restaurants,CEO,restaurant disposition,neutral
+186.0,Darden Restaurants,CEO,discontinued operations,neutral
+187.0,BorgWarner,CEO,market,neutral
+187.0,BorgWarner,CEO,operational,neutral
+187.0,BorgWarner,CEO,market,neutral
+187.0,BorgWarner,CEO,operational,neutral
+187.0,BorgWarner,CEO,operational,neutral
+187.0,BorgWarner,CEO,operational,neutral
+187.0,BorgWarner,CEO,operational,neutral
+187.0,BorgWarner,CEO,operational,neutral
+188.0,Kohl's,CFO,financial performance,neutral
+188.0,Kohl's,CFO,financial performance,neutral
+188.0,Kohl's,CFO,financial performance,neutral
+188.0,Kohl's,CFO,financial performance,neutral
+189.0,Cooper Industries,CEO,global financial markets,neutral
+189.0,Cooper Industries,CEO,commodity inflation,neutral
+189.0,Cooper Industries,CEO,North American housing slump,neutral
+189.0,Cooper Industries,CEO,US automotive,neutral
+189.0,Cooper Industries,CEO,furniture and other consumer related manufacturing,neutral
+189.0,Cooper Industries,CEO,international growth,neutral
+190.0,Cisco Systems,CEO,economic uncertainty,neutral
+190.0,Cisco Systems,CFO,financial performance,neutral
+190.0,Cisco Systems,CEO,forward-looking statements,neutral
+191.0,CIGNA,Vice President Investor Relations,financial volatility,neutral
+192.0,Manitowoc Company Incorporated,Operator,forward-looking statements,neutral
+192.0,Manitowoc Company Incorporated,CEO,strategic acquisition,neutral
+192.0,Manitowoc Company Incorporated,CEO,change in company balance,neutral
+192.0,Manitowoc Company Incorporated,CEO,strategic acquisition,neutral
+193.0,Gilead Sciences,Investor Relations,regulatory,neutral
+193.0,Gilead Sciences,CEO,market,neutral
+193.0,Gilead Sciences,CEO,market,neutral
+194.0,Ingersoll-Rand,"Chairman, President and CEO",end markets,neutral
+194.0,Ingersoll-Rand,Senior Vice President and CFO,restrained credit availability,neutral
+195.0,None,CEO,business,neutral
+195.0,None,CFO,business,neutral
+195.0,None,CFO,business,neutral
+195.0,None,CFO,business,neutral
+195.0,None,CFO,business,neutral
+195.0,None,CFO,business,neutral
+195.0,None,CFO,business,neutral
+196.0,Embarq,CEO,revenue decline,neutral
+196.0,Embarq,CFO,wireless revenue slowdown,neutral
+196.0,Embarq,CEO,access line losses,neutral
+196.0,Embarq,CEO,consumer market line losses,neutral
+196.0,Embarq,CEO,business market line losses,neutral
+196.0,Embarq,CEO,capital expenditure,neutral
+196.0,Embarq,CEO,data revenue growth,neutral
+196.0,Embarq,CEO,capital expenditure,neutral
+197.0,Tyson Foods,CEO,market demand,neutral
+197.0,Tyson Foods,CEO,input costs,neutral
+197.0,Tyson Foods,CEO,competitive,neutral
+197.0,Tyson Foods,CEO,market demand,neutral
+197.0,Tyson Foods,CEO,input costs,neutral
+197.0,Tyson Foods,CFO,input costs,neutral
+197.0,Tyson Foods,CFO,supply,neutral
+198.0,Weyerhaeuser,VP of IR,market conditions,neutral
+198.0,Weyerhaeuser,President and CEO,market conditions,neutral
+198.0,Weyerhaeuser,CFO,market conditions,neutral
+198.0,Weyerhaeuser,President and CEO,market conditions,neutral
+198.0,Weyerhaeuser,CFO,market conditions,neutral
+198.0,Weyerhaeuser,President and CEO,market conditions,neutral
+198.0,Weyerhaeuser,CFO,market conditions,neutral
+199.0,"D.R. Horton, Incorporated",CEO,sales,neutral
+199.0,"D.R. Horton, Incorporated",CFO,sales,neutral
+199.0,"D.R. Horton, Incorporated",Senior EVP,margin,neutral
+199.0,"D.R. Horton, Incorporated",CFO,margin,neutral
+200.0,Raytheon,Investor Relations,execution,neutral
+200.0,Raytheon,Chairman and Chief Executive Officer,execution,neutral
+200.0,Raytheon,Chief Financial Officer,execution,neutral
+201.0,Biogen Inc.,CEO,market,neutral
+201.0,Biogen Inc.,CFO,market,neutral
+201.0,Biogen Inc.,"Senior Vice President, U.S. Commercial",market,neutral
+201.0,Biogen Inc.,"President, R&D",operational,neutral
+201.0,Biogen Inc.,Executive Vice President and Chief Financial Officer,financial,neutral
+201.0,Biogen Inc.,Senior Vice President of Neurology Research and Development,operational,neutral
+202.0,Campbell Soup Company,CEO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,operational,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+202.0,Campbell Soup Company,CFO,financial,neutral
+203.0,Merck,CEO,financial performance,neutral
+203.0,Merck,CEO,market exclusivity,neutral
+203.0,Merck,CEO,economic conditions,neutral
+203.0,Merck,CEO,financial performance,neutral
+203.0,Merck,CEO,financial performance,neutral
+204.0,Kansas City Southern,CEO,economic conditions,neutral
+204.0,Kansas City Southern,CEO,fuel prices,neutral
+204.0,Kansas City Southern,CEO,weather,neutral
+204.0,Kansas City Southern,CEO,economic conditions,neutral
+204.0,Kansas City Southern,COO,economic conditions,neutral
+204.0,Kansas City Southern,CFO,economic conditions,neutral
+205.0,AMR,CEO,fuel prices,neutral
+205.0,AMR,CFO,fuel prices,neutral
+205.0,AMR,CFO,fuel prices volatility,neutral
+205.0,AMR,CEO,weather disruptions,neutral
+205.0,AMR,CEO,airworthiness issues,neutral
+205.0,AMR,CEO,economic conditions,neutral
+206.0,Big Lots,"VP, Strategic Planning & IR",economic downturn,neutral
+206.0,Big Lots,"Chairman, President & CEO",legal liability,neutral
+206.0,Big Lots,SVP & CFO,legal liability,neutral
+206.0,Big Lots,"SVP, Real Estate, Legal and General Counsel",legal liability,neutral
+206.0,Big Lots,"VP, Strategic Planning & IR",economic downturn,neutral
+207.0,Schlumberger,Simon Ayat,operational,neutral
+207.0,Schlumberger,Simon Ayat,geopolitical,neutral
+207.0,Schlumberger,Simon Ayat,operational,neutral
+207.0,Schlumberger,Simon Ayat,operational,neutral
+207.0,Schlumberger,Simon Ayat,operational,neutral
+207.0,Schlumberger,Simon Ayat,operational,neutral
+208.0,Halliburton,VP IR,market conditions,neutral
+208.0,Halliburton,CEO,market conditions,neutral
+208.0,Halliburton,CFO,market conditions,neutral
+208.0,Halliburton,VP IR,market conditions,neutral
+208.0,Halliburton,CEO,market conditions,neutral
+208.0,Halliburton,CFO,market conditions,neutral
+208.0,Halliburton,VP IR,market conditions,neutral
+208.0,Halliburton,CEO,market conditions,neutral
+208.0,Halliburton,CFO,market conditions,neutral
+208.0,Halliburton,VP IR,market conditions,neutral
+208.0,Halliburton,CEO,market conditions,neutral
+208.0,Halliburton,CFO,market conditions,neutral
+208.0,Halliburton,VP IR,market conditions,neutral
+208.0,Halliburton,CEO,market conditions,neutral
+208.0,Halliburton,CFO,market conditions,neutral
+209.0,PepsiCo,CEO,inflation,neutral
+209.0,PepsiCo,CEO,economic slowdown,neutral
+209.0,PepsiCo,CEO,market weakness,neutral
+209.0,PepsiCo,CEO,inflation,neutral
+210.0,PPL Corporation,CEO,financial,decrease
+210.0,PPL Corporation,CEO,operational,neutral
+210.0,PPL Corporation,CEO,financial,decrease
+210.0,PPL Corporation,CEO,financial,decrease
+210.0,PPL Corporation,CEO,operational,decrease
+210.0,PPL Corporation,CEO,financial,decrease
+210.0,PPL Corporation,CEO,operational,decrease
+210.0,PPL Corporation,CEO,financial,decrease
+210.0,PPL Corporation,CEO,operational,decrease
+211.0,Aflac,CEO,market,neutral
+212.0,Juniper Networks,VP of IR,economic conditions,neutral
+212.0,Juniper Networks,Chairman of the Board,technology spending,neutral
+212.0,Juniper Networks,CEO,network capacity requirements,neutral
+212.0,Juniper Networks,CFO,manufacturing and supply chain constraints,neutral
+212.0,Juniper Networks,VP of IR,customer perceptions,neutral
+212.0,Juniper Networks,VP of IR,litigation,neutral
+212.0,Juniper Networks,VP of IR,economic conditions,neutral
+212.0,Juniper Networks,Chairman of the Board,economic conditions,neutral
+212.0,Juniper Networks,CEO,economic conditions,neutral
+212.0,Juniper Networks,CEO,economic conditions,neutral
+213.0,McDonald's,"VP, Investor Relations",execution,neutral
+213.0,McDonald's,CEO,execution,neutral
+213.0,McDonald's,CFO,execution,neutral
+213.0,McDonald's,COO,execution,neutral
+213.0,McDonald's,"VP, Investor Relations",execution,neutral
+213.0,McDonald's,CEO,execution,neutral
+213.0,McDonald's,CFO,execution,neutral
+213.0,McDonald's,COO,execution,neutral
+213.0,McDonald's,"VP, Investor Relations",execution,neutral
+213.0,McDonald's,CEO,execution,neutral
+213.0,McDonald's,CFO,execution,neutral
+213.0,McDonald's,COO,execution,neutral
+213.0,McDonald's,"VP, Investor Relations",execution,neutral
+213.0,McDonald's,CEO,execution,neutral
+213.0,McDonald's,CFO,execution,neutral
+213.0,McDonald's,COO,execution,neutral
+213.0,McDonald's,"VP, Investor Relations",execution,neutral
+214.0,Kohl's,CEO,sales decline,neutral
+215.0,Ameren Corporation,CEO,financial,neutral
+215.0,Ameren Corporation,CFO,financial,neutral
+215.0,Ameren Corporation,CEO,operational,neutral
+215.0,Ameren Corporation,CFO,financial,neutral
+216.0,Atmos Energy Corporation,CEO,market volatility,neutral
+216.0,Atmos Energy Corporation,CFO,market volatility,neutral
+216.0,Atmos Energy Corporation,CEO,regulatory,neutral
+216.0,Atmos Energy Corporation,CFO,market volatility,neutral
+216.0,Atmos Energy Corporation,CEO,regulatory,neutral
+217.0,PACCAR,CEO,economic,neutral
+217.0,PACCAR,CEO,market,neutral
+217.0,PACCAR,CEO,competitive,neutral
+217.0,PACCAR,CEO,economic,neutral
+217.0,PACCAR,CEO,market,neutral
+217.0,PACCAR,CEO,economic,neutral
+217.0,PACCAR,CEO,market,neutral
+217.0,PACCAR,CEO,economic,neutral
+218.0,Unisys,"Vice President, Investor Relations",economic downturn,neutral
+219.0,"CBRE Group, Inc.",CEO,operational,negative
+219.0,"CBRE Group, Inc.",CEO,operational,negative
+219.0,"CBRE Group, Inc.",CEO,operational,neutral
+219.0,"CBRE Group, Inc.",CEO,operational,neutral
+219.0,"CBRE Group, Inc.",CEO,operational,neutral
+220.0,Ashland,CEO,financial,neutral
+220.0,Ashland,CFO,financial,neutral
+220.0,Ashland,"VP and President, Ashland Distribution",operational,neutral
+220.0,Ashland,CEO,operational,neutral
+220.0,Ashland,CFO,financial,neutral
+220.0,Ashland,CEO,financial,neutral
+221.0,CVS Caremark Corporation,CEO,regulatory,neutral
+221.0,CVS Caremark Corporation,CFO,contractual,neutral
+221.0,CVS Caremark Corporation,CEO,market,neutral
+221.0,CVS Caremark Corporation,CFO,market,neutral
+221.0,CVS Caremark Corporation,CEO,regulatory,neutral
+222.0,TSYS,CEO,economic headwinds,neutral
+222.0,TSYS,CEO,client financial performance,neutral
+222.0,TSYS,CEO,market volatility,neutral
+222.0,TSYS,CEO,client slowdown,neutral
+222.0,TSYS,CEO,international margins,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,competitive market,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,volatile investment climate,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,competitive market,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,market conditions,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,market conditions,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,market conditions,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,market conditions,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,market conditions,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,market conditions,neutral
+223.0,Arch Capital Group Ltd.,President and CEO,market conditions,neutral
+224.0,Amylin Pharmaceuticals,CEO,market,neutral
+224.0,Amylin Pharmaceuticals,CEO,regulatory,neutral
+224.0,Amylin Pharmaceuticals,CEO,market,neutral
+224.0,Amylin Pharmaceuticals,CEO,market,neutral
+224.0,Amylin Pharmaceuticals,CEO,regulatory,neutral
+224.0,Amylin Pharmaceuticals,CEO,market,neutral
+225.0,Transocean Inc.,CEO,market,neutral
+225.0,Transocean Inc.,CEO,operational,neutral
+225.0,Transocean Inc.,CEO,cyclical industry,neutral
+225.0,Transocean Inc.,CEO,market,neutral
+225.0,Transocean Inc.,CEO,cyclical industry,neutral
+226.0,Ecolab,CEO,market conditions,neutral
+226.0,Ecolab,CEO,currency trends,neutral
+226.0,Ecolab,CEO,product costs,neutral
+226.0,Ecolab,CEO,market slowdown,neutral
+226.0,Ecolab,CEO,currency trends,neutral
+226.0,Ecolab,CEO,market slowdown,neutral
+226.0,Ecolab,CEO,distributor incentive promotions,negative
+226.0,Ecolab,CEO,market conditions,neutral
+227.0,"Amazon.com, Inc.",CFO,margin decline,neutral
+227.0,"Amazon.com, Inc.",CFO,margin decline,neutral
+227.0,"Amazon.com, Inc.",CFO,margin decline,neutral
+227.0,"Amazon.com, Inc.",CFO,margin decline,neutral
+228.0,Robert Half International,Chairman and Chief Executive Officer,forward-looking statements,neutral
+228.0,Robert Half International,"Vice Chairman, President and Chief Financial Officer",forward-looking statements,neutral
+229.0,Tenet Healthcare,CEO,patient_mix,disappointed
+229.0,Tenet Healthcare,CEO,financial,neutral
+229.0,Tenet Healthcare,CEO,operational,neutral
+229.0,Tenet Healthcare,CEO,financial,neutral
+229.0,Tenet Healthcare,CEO,operational,neutral
+229.0,Tenet Healthcare,CEO,financial,disappointed
+229.0,Tenet Healthcare,CEO,patient_mix,disappointed
+230.0,Duke Energy,"Senior VP, IR and Financial Planning",regulatory uncertainty,neutral
+230.0,Duke Energy,"Chairman, President and Chief Executive Officer",regulatory uncertainty,neutral
+230.0,Duke Energy,Group Executive and Chief Financial Officer,regulatory uncertainty,neutral
+231.0,Public Storage,"VP, IR",economic,neutral
+232.0,E*TRADE FINANCIAL Corporation,CEO,financial environment,neutral
+233.0,C.H. Robinson,Director of IR,market conditions,neutral
+233.0,C.H. Robinson,CEO and Chairman of the Board,market conditions,neutral
+233.0,C.H. Robinson,Sr. VP and CFO,market conditions,neutral
+233.0,C.H. Robinson,CEO and Chairman of the Board,fuel prices,neutral
+233.0,C.H. Robinson,CEO and Chairman of the Board,capacity pricing,neutral
+233.0,C.H. Robinson,CEO and Chairman of the Board,capacity pricing,neutral
+233.0,C.H. Robinson,Sr. VP and CFO,margin impact,neutral
+234.0,"Conagra Brands, Inc.",CEO,margin pressures,neutral
+234.0,"Conagra Brands, Inc.",CFO,trade promotion spending,neutral
+234.0,"Conagra Brands, Inc.",V.P. Investor Relations,SEC filings,neutral
+234.0,"Conagra Brands, Inc.","President, Consumer Operations",performance,neutral
+234.0,"Conagra Brands, Inc.","President, Commercial Operations",performance,neutral
+235.0,Interpublic Group,CEO,economic uncertainty,neutral
+235.0,Interpublic Group,CEO,economic uncertainty,neutral
+235.0,Interpublic Group,CEO,economic uncertainty,neutral
+236.0,DENTSPLY Internationals,CEO,economic downturn,neutral
+236.0,DENTSPLY Internationals,CEO,market slowdown,neutral
+236.0,DENTSPLY Internationals,CEO,market slowdown,neutral
+236.0,DENTSPLY Internationals,CEO,market slowdown,neutral
+236.0,DENTSPLY Internationals,CEO,market slowdown,neutral
+236.0,DENTSPLY Internationals,CEO,market slowdown,neutral
+236.0,DENTSPLY Internationals,CEO,market slowdown,neutral
+237.0,eBay,CEO,economic downturn,neutral
+237.0,eBay,CEO,competitive environment,neutral
+237.0,eBay,CEO,regulatory,neutral
+237.0,eBay,CEO,acquisition integration,neutral
+237.0,eBay,CEO,competitive environment,neutral
+237.0,eBay,CEO,technology infrastructure,neutral
+238.0,The AES Corporation,CEO,market conditions,neutral
+238.0,The AES Corporation,CFO,market conditions,neutral
+238.0,The AES Corporation,CEO,market conditions,neutral
+239.0,Avery Dennison Corporation,CEO,economic conditions,neutral
+239.0,Avery Dennison Corporation,CEO,raw material costs,neutral
+239.0,Avery Dennison Corporation,CEO,economic conditions,neutral
+239.0,Avery Dennison Corporation,CEO,raw material costs,neutral
+239.0,Avery Dennison Corporation,CEO,economic conditions,neutral
+240.0,Interpublic Group,CEO,economic uncertainty,neutral
+240.0,Interpublic Group,CFO,economic uncertainty,neutral
+240.0,Interpublic Group,CEO,economic uncertainty,neutral
+240.0,Interpublic Group,CFO,economic uncertainty,neutral
+241.0,Target,CEO,economic uncertainty,neutral
+241.0,Target,CFO,slower top line growth,neutral
+241.0,Target,CFO,write-offs,neutral
+241.0,Target,CFO,credit card segment,neutral
+241.0,Target,CEO,economic uncertainty,neutral
+241.0,Target,CEO,consumer spending contraction,neutral
+241.0,Target,CEO,discretionary categories,neutral
+241.0,Target,CEO,competitive landscape,neutral
+241.0,Target,CEO,retailer survival,neutral
+241.0,Target,CEO,competitive landscape,neutral
+241.0,Target,CFO,expense growth,neutral
+241.0,Target,CEO,value proposition communication,neutral
+241.0,Target,CEO,price leadership,neutral
+241.0,Target,CFO,share repurchase suspension,neutral
+242.0,BB&T Corporation,SVP of IR,financial results,neutral
+242.0,BB&T Corporation,Chairman and CEO,financial results,neutral
+242.0,BB&T Corporation,Chief Operating Officer,financial results,neutral
+242.0,BB&T Corporation,Chief Finance Officer,financial results,neutral
+242.0,BB&T Corporation,SVP of IR,financial results,neutral
+243.0,H&R Block,CEO,financial,neutral
+243.0,H&R Block,CFO,financial,neutral
+243.0,H&R Block,CEO,operational,neutral
+243.0,H&R Block,CFO,financial,neutral
+243.0,H&R Block,CEO,operational,neutral
+243.0,H&R Block,CFO,financial,neutral
+243.0,H&R Block,CEO,operational,neutral
+243.0,H&R Block,CFO,financial,neutral
+244.0,Moody's Corporation,Chairman and CEO,credit market conditions,neutral
+244.0,Moody's Corporation,CFO,credit market conditions,neutral
+244.0,Moody's Corporation,Chairman and CEO,regulatory area,neutral
+245.0,Southern Company,CEO,regulatory,neutral
+245.0,Southern Company,CEO,economic,neutral
+245.0,Southern Company,CEO,operational,neutral
+245.0,Southern Company,CEO,regulatory,neutral
+245.0,Southern Company,CEO,economic,neutral
+245.0,Southern Company,CEO,operational,neutral
+245.0,Southern Company,CEO,economic,neutral
+245.0,Southern Company,CEO,operational,neutral
+245.0,Southern Company,CEO,regulatory,neutral
+245.0,Southern Company,CEO,economic,neutral
+246.0,WaMu,Senior Vice President of Investor Relations,credit,neutral
+246.0,WaMu,Chief Executive Officer & Director,market,neutral
+246.0,WaMu,"President, Chief Operating Officer & Interim President - Retail Banking",credit,neutral
+246.0,WaMu,Chief Financial Officer & Executive Vice President,credit,neutral
+246.0,WaMu,Chief Enterprise Risk Officer,credit,neutral
+246.0,WaMu,Chief Executive Officer & Director,market,neutral
+246.0,WaMu,Chief Financial Officer & Executive Vice President,market,neutral
+246.0,WaMu,Chief Enterprise Risk Officer,credit,neutral
+246.0,WaMu,Chief Executive Officer & Director,market,neutral
+246.0,WaMu,Chief Financial Officer & Executive Vice President,market,neutral
+246.0,WaMu,Chief Enterprise Risk Officer,market,neutral
+246.0,WaMu,Chief Executive Officer & Director,market,neutral
+246.0,WaMu,Chief Financial Officer & Executive Vice President,market,neutral
+246.0,WaMu,Chief Enterprise Risk Officer,market,neutral
+247.0,None,CEO,industry,neutral
+248.0,Pitney Bowes,CEO,economic conditions,neutral
+248.0,Pitney Bowes,CEO,political or economic conditions,neutral
+248.0,Pitney Bowes,CEO,product development,neutral
+248.0,Pitney Bowes,CEO,currency fluctuations,neutral
+248.0,Pitney Bowes,CEO,economic conditions,neutral
+248.0,Pitney Bowes,CEO,economic conditions,neutral
+248.0,Pitney Bowes,CEO,economic conditions,neutral
+248.0,Pitney Bowes,CEO,economic conditions,neutral
+249.0,"Ameriprise Financial, Inc.",Chairman and CEO,market volatility,neutral
+249.0,"Ameriprise Financial, Inc.",Chairman and CEO,market sensitivity,neutral
+249.0,"Ameriprise Financial, Inc.",Chairman and CEO,credit market volatility,neutral
+249.0,"Ameriprise Financial, Inc.",Chairman and CEO,client activity slowdown,neutral
+249.0,"Ameriprise Financial, Inc.",Chairman and CEO,market conditions,neutral
+249.0,"Ameriprise Financial, Inc.",Chairman and CEO,asset class exposure,neutral
+249.0,"Ameriprise Financial, Inc.",Chairman and CEO,market conditions,neutral
+250.0,Ford Motor Company,Director of IR,economic slowdown,neutral
+250.0,Ford Motor Company,President and CEO,economic slowdown,neutral
+250.0,Ford Motor Company,EVP and CFO,economic slowdown,neutral
+250.0,Ford Motor Company,President and CEO,economic challenges,neutral
+250.0,Ford Motor Company,EVP and CFO,economic challenges,neutral
+251.0,Southern Company,CEO,economic,neutral
+251.0,Southern Company,CFO,weather,neutral
+251.0,Southern Company,CEO,economic,neutral
+251.0,Southern Company,CFO,economic,neutral
+251.0,Southern Company,CEO,economic,neutral
+251.0,Southern Company,CFO,economic,neutral
+251.0,Southern Company,CEO,economic,neutral
+251.0,Southern Company,CFO,economic,neutral
+252.0,M&T Bank,CFO,credit,neutral
+252.0,M&T Bank,CFO,credit,neutral
+252.0,M&T Bank,CFO,credit,neutral
+252.0,M&T Bank,CFO,credit,neutral
+252.0,M&T Bank,CFO,credit,neutral
+253.0,Fluor Corporation,CEO,market,neutral
+253.0,Fluor Corporation,CFO,market,neutral
+253.0,Fluor Corporation,Senior Group President,market,neutral
+253.0,Fluor Corporation,CEO,market,neutral
+254.0,Pinnacle West,CEO,weather,neutral
+254.0,Pinnacle West,CFO,market,neutral
+254.0,Pinnacle West,CEO,market,neutral
+254.0,Pinnacle West,CEO,market,neutral
+254.0,Pinnacle West,CEO,market,neutral
+255.0,IBM,Patricia Murphy,economic,neutral
+255.0,IBM,Patricia Murphy,forward looking,neutral
+255.0,IBM,Mark Loughridge,economic,neutral
+255.0,IBM,Mark Loughridge,market,neutral
+256.0,Biogen Inc.,CEO,market,neutral
+256.0,Biogen Inc.,CFO,market,neutral
+256.0,Biogen Inc.,"President, Research and Development",clinical,neutral
+256.0,Biogen Inc.,CFO,market,neutral
+256.0,Biogen Inc.,CEO,clinical,neutral
+257.0,Home Depot,CEO,financial,neutral
+257.0,Home Depot,CFO,financial,neutral
+257.0,Home Depot,CEO,operational,neutral
+257.0,Home Depot,CFO,financial,neutral
+257.0,Home Depot,CEO,operational,neutral
+257.0,Home Depot,CFO,financial,neutral
+257.0,Home Depot,CEO,operational,neutral
+257.0,Home Depot,CFO,financial,neutral
+257.0,Home Depot,CEO,financial,neutral
+258.0,Murphy Oil Corporation,Analyst,market volatility,neutral
+259.0,Stericycle,CFO,forward-looking,neutral
+260.0,Equity Residential,CEO,economic downturn,neutral
+260.0,Equity Residential,CFO,decreasing rent growth,neutral
+260.0,Equity Residential,CEO,resident resistance to higher rates,neutral
+260.0,Equity Residential,CEO,economic downturn,neutral
+260.0,Equity Residential,CEO,challenging year 2009,neutral
+261.0,PerkinElmer,CEO,economic outlook,neutral
+261.0,PerkinElmer,CFO,uncertainty,neutral
+261.0,PerkinElmer,CEO,market growth,neutral
+261.0,PerkinElmer,CEO,competitive,neutral
+261.0,PerkinElmer,CEO,market growth,neutral
+261.0,PerkinElmer,CEO,competitive,neutral
+261.0,PerkinElmer,CEO,competitive,neutral
+262.0,Johnson & Johnson,Louise Mehrotra,currency,neutral
+263.0,Moody's Corporation,CEO,weak issuance conditions,neutral
+263.0,Moody's Corporation,CEO,challenging prior year comparables,neutral
+263.0,Moody's Corporation,CEO,weak issuance conditions,neutral
+263.0,Moody's Corporation,CEO,weak issuance conditions,neutral
+263.0,Moody's Corporation,CEO,weak issuance conditions,neutral
+263.0,Moody's Corporation,CEO,weak issuance conditions,neutral
+263.0,Moody's Corporation,CEO,weak issuance conditions,neutral
+263.0,Moody's Corporation,CEO,weak issuance conditions,neutral
+263.0,Moody's Corporation,CEO,weak issuance conditions,neutral
+263.0,Moody's Corporation,CEO,weak issuance conditions,neutral
+264.0,Arthur J. Gallagher & Co.,"Chairman, President and CEO",market conditions,neutral
+265.0,Valspar,Senior Vice President and Chief Financial Officer,economic,neutral
+266.0,Ingersoll-Rand,"Chairman, President and CEO",decline in North American residential construction,neutral
+266.0,Ingersoll-Rand,"Chairman, President and CEO",decline in truck and trailer market,neutral
+266.0,Ingersoll-Rand,Senior Vice President and Chief Financial Officer,restructuring charges,neutral
+266.0,Ingersoll-Rand,Senior Vice President and Chief Financial Officer,currency fluctuations,neutral
+267.0,Kellogg,"Vice President, Investor Relations",commodity price volatility,neutral
+267.0,Kellogg,"President, Chief Executive Officer",commodity price volatility,neutral
+267.0,Kellogg,Chief Financial Officer,commodity price volatility,neutral
+267.0,Kellogg,General Counsel,commodity price volatility,neutral
+267.0,Kellogg,"President, Chief Executive Officer",commodity price volatility,neutral
+267.0,Kellogg,Chief Financial Officer,commodity price volatility,neutral
+267.0,Kellogg,General Counsel,commodity price volatility,neutral
+267.0,Kellogg,"President, Chief Executive Officer",commodity price volatility,neutral
+267.0,Kellogg,Chief Financial Officer,commodity price volatility,neutral
+267.0,Kellogg,General Counsel,commodity price volatility,neutral
+267.0,Kellogg,"President, Chief Executive Officer",commodity price volatility,neutral
+267.0,Kellogg,Chief Financial Officer,commodity price volatility,neutral
+267.0,Kellogg,General Counsel,commodity price volatility,neutral
+268.0,Eaton Corporation,CEO,market volatility,neutral
+268.0,Eaton Corporation,CFO,financing risk,neutral
+268.0,Eaton Corporation,CEO,end market forecast,neutral
+268.0,Eaton Corporation,CEO,financing risk,neutral
+269.0,NVIDIA,CEO,market,neutral
+269.0,NVIDIA,CFO,financial,neutral
+269.0,NVIDIA,CEO,market,neutral
+269.0,NVIDIA,CFO,financial,neutral
+269.0,NVIDIA,CEO,market,neutral
+,Harley-Davidson,CEO,economic downturn,neutral
+,Harley-Davidson,CFO,economic downturn,neutral
+,Harley-Davidson,CEO,credit market instability,neutral
+,Harley-Davidson,CEO,international economic downturn,neutral
+271.0,Ashland,Eric Boni,market demand,neutral
+271.0,Ashland,Eric Boni,raw material costs,neutral
+271.0,Ashland,Eric Boni,market demand,neutral
+271.0,Ashland,Eric Boni,operating income,neutral
+271.0,Ashland,Eric Boni,raw material costs,neutral
+271.0,Ashland,Eric Boni,operating income,neutral
+271.0,Ashland,Eric Boni,tax provision,neutral
+272.0,ArvinMeritor,CEO,market conditions,neutral
+272.0,ArvinMeritor,CFO,market conditions,neutral
+272.0,ArvinMeritor,CEO,operational,neutral
+272.0,ArvinMeritor,CFO,operational,neutral
+272.0,ArvinMeritor,CEO,market conditions,neutral
+,Developers Diversified,CEO,economic,neutral
+,Developers Diversified,CFO,market,neutral
+,Developers Diversified,CEO,tenant,neutral
+,Developers Diversified,CEO,economic,neutral
+,Developers Diversified,CEO,economic,neutral
+,Developers Diversified,CEO,tenant,neutral
+,Developers Diversified,CEO,economic,neutral
+,Developers Diversified,CEO,financial,neutral
+274.0,PNC Financial Services Group,Chairman and Chief Executive Officer,market volatility,neutral
+274.0,PNC Financial Services Group,Chairman and Chief Executive Officer,credit quality,neutral
+274.0,PNC Financial Services Group,Chairman and Chief Executive Officer,trading activities,neutral
+274.0,PNC Financial Services Group,Chairman and Chief Executive Officer,market liquidity,neutral
+275.0,IFF,CEO,economic downturn,neutral
+276.0,Yum! Brands,CEO,macroeconomic,neutral
+276.0,Yum! Brands,CFO,operational,neutral
+276.0,Yum! Brands,CEO,operational,neutral
+276.0,Yum! Brands,CEO,macroeconomic,neutral
+276.0,Yum! Brands,CEO,operational,neutral
+277.0,GameStop,Executive Chairman,international,neutral
+277.0,GameStop,CEO,uncertainty,neutral
+277.0,GameStop,CFO,uncertainty,neutral
+277.0,GameStop,Chief Operating Officer,neutral,neutral
+277.0,GameStop,Analyst,uncertainty,neutral
+277.0,GameStop,Analyst,uncertainty,neutral
+277.0,GameStop,Analyst,uncertainty,neutral
+277.0,GameStop,Analyst,uncertainty,neutral
+277.0,GameStop,Analyst,uncertainty,neutral
+277.0,GameStop,Analyst,uncertainty,neutral
+277.0,GameStop,Analyst,uncertainty,neutral
+277.0,GameStop,Analyst,uncertainty,neutral
+277.0,GameStop,Analyst,uncertainty,neutral
+278.0,KB Home,CEO,economic,neutral
+279.0,People’s United Financial,CEO,margin compression,neutral
+279.0,People’s United Financial,CEO,economic conditions,neutral
+279.0,People’s United Financial,CEO,expense management,neutral
+279.0,People’s United Financial,CEO,expense management,neutral
+279.0,People’s United Financial,CEO,economic conditions,neutral
+279.0,People’s United Financial,CEO,market conditions,neutral
+280.0,Peabody Energy,President and Chief Commercial Officer,operational,neutral
+280.0,Peabody Energy,President and Chief Commercial Officer,market,neutral
+280.0,Peabody Energy,President and Chief Commercial Officer,operational,neutral
+280.0,Peabody Energy,President and Chief Commercial Officer,market,neutral
+280.0,Peabody Energy,President and Chief Commercial Officer,market,neutral
+280.0,Peabody Energy,President and Chief Commercial Officer,operational,neutral
+280.0,Peabody Energy,President and Chief Commercial Officer,market,neutral
+280.0,Peabody Energy,President and Chief Commercial Officer,market,neutral
+280.0,Peabody Energy,President and Chief Commercial Officer,market,neutral
+281.0,Loews,CEO,financial,neutral
+281.0,Loews,CEO,transactional,neutral
+281.0,Loews,CEO,financial,neutral
+281.0,Loews,CEO,financial,neutral
+281.0,Loews,CEO,financial,neutral
+282.0,"ANSYS, Inc.",CEO,revenue miss,neutral
+282.0,"ANSYS, Inc.",CFO,currency risk,neutral
+282.0,"ANSYS, Inc.",CEO,economic uncertainty,neutral
+283.0,State Street,Kelly McDonald,forward-looking statements,neutral
+283.0,State Street,Ronald Logue,market risk,neutral
+283.0,State Street,Ronald Logue,operational,neutral
+283.0,State Street,Ronald Logue,market risk,neutral
+283.0,State Street,Ronald Logue,operational,neutral
+283.0,State Street,Ronald Logue,market risk,neutral
+283.0,State Street,Ronald Logue,capital adequacy,neutral
+283.0,State Street,Ronald Logue,capital adequacy,neutral
+284.0,Bank of America Corporation,CEO,economic conditions,neutral
+284.0,Bank of America Corporation,CEO,interest rates,neutral
+284.0,Bank of America Corporation,CEO,competitive pressures,neutral
+284.0,Bank of America Corporation,CEO,regulatory requirements,neutral
+284.0,Bank of America Corporation,CEO,economic conditions,neutral
+284.0,Bank of America Corporation,CEO,credit quality,neutral
+284.0,Bank of America Corporation,CEO,credit quality,neutral
+284.0,Bank of America Corporation,CEO,market perception,neutral
+284.0,Bank of America Corporation,CEO,Countrywide transaction,neutral
+285.0,ProLogis,CEO,economic downturn,neutral
+285.0,ProLogis,CEO,access to credit,neutral
+285.0,ProLogis,CEO,real estate pricing,neutral
+285.0,ProLogis,CEO,customer decision-making,neutral
+285.0,ProLogis,CEO,market conditions,neutral
+285.0,ProLogis,CEO,customer credit quality,neutral
+286.0,"AutoZone, Inc.",CEO,competition,neutral
+286.0,"AutoZone, Inc.",CEO,product demand,neutral
+286.0,"AutoZone, Inc.",CEO,economy,neutral
+286.0,"AutoZone, Inc.",CEO,credit markets,neutral
+286.0,"AutoZone, Inc.",CEO,ability to hire and retain qualified employees,neutral
+286.0,"AutoZone, Inc.",CEO,consumer debt levels,neutral
+286.0,"AutoZone, Inc.",CEO,inflation,neutral
+286.0,"AutoZone, Inc.",CEO,weather,neutral
+286.0,"AutoZone, Inc.",CEO,raw material costs of suppliers,neutral
+286.0,"AutoZone, Inc.",CEO,energy prices,neutral
+286.0,"AutoZone, Inc.",CEO,"war and the prospect of war, including terrorist activity",neutral
+286.0,"AutoZone, Inc.",CEO,availability of consumer transportation,neutral
+286.0,"AutoZone, Inc.",CEO,construction delays,neutral
+286.0,"AutoZone, Inc.",CEO,access to available and feasible financing,neutral
+286.0,"AutoZone, Inc.",CEO,changes in laws or regulations,neutral
+287.0,"Akamai Technologies, Inc.",CEO,marketplace,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+288.0,Exelon,CEO,operational,neutral
+289.0,"Google, Inc.",Patrick Pichette,market,neutral
+289.0,"Google, Inc.",Patrick Pichette,market,neutral
+289.0,"Google, Inc.",Patrick Pichette,market,neutral
+289.0,"Google, Inc.",Patrick Pichette,market,neutral
+290.0,"Align Technology, Inc.",CEO,product development,neutral
+290.0,"Align Technology, Inc.",CEO,market adoption,neutral
+290.0,"Align Technology, Inc.",CEO,market adoption,neutral
+290.0,"Align Technology, Inc.",CEO,market adoption,neutral
+291.0,Blackstone Inc.,CFO,economic slowdown,neutral
+291.0,Blackstone Inc.,CEO,tenant caution,neutral
+291.0,Blackstone Inc.,COO,tenant caution,neutral
+291.0,Blackstone Inc.,CFO,economic slowdown,neutral
+291.0,Blackstone Inc.,CEO,tenant caution,neutral
+291.0,Blackstone Inc.,COO,economic slowdown,neutral
+291.0,Blackstone Inc.,CFO,economic slowdown,neutral
+291.0,Blackstone Inc.,CEO,economic slowdown,neutral
+291.0,Blackstone Inc.,COO,economic slowdown,neutral
+292.0,Xilinx,CEO,financial,neutral
+292.0,Xilinx,CEO,operational,neutral
+292.0,Xilinx,CEO,financial,neutral
+292.0,Xilinx,CFO,financial,neutral
+292.0,Xilinx,CFO,operational,neutral
+292.0,Xilinx,CFO,financial,neutral
+293.0,"Best Buy Co., Inc.","Vice President, Investor Relations",market,neutral
+293.0,"Best Buy Co., Inc.","President, Chief Operating Officer",market,neutral
+293.0,"Best Buy Co., Inc.","Executive Vice President, Retail ChannelManagement",market,neutral
+293.0,"Best Buy Co., Inc.",Chief Executive Officer,market,neutral
+293.0,"Best Buy Co., Inc.",Senior Vice President and Interim ChiefFinancial Officer,market,neutral
+293.0,"Best Buy Co., Inc.","Vice Chairman of the Board, ChiefExecutive Officer",market,neutral
+293.0,"Best Buy Co., Inc.","Senior Vice President, Entertainment Group",market,neutral
+293.0,"Best Buy Co., Inc.","Senior Vice President, ComputerMerchandising",market,neutral
+293.0,"Best Buy Co., Inc.","Senior Vice President, Consumer Electronics",market,neutral
+293.0,"Best Buy Co., Inc.","Senior Vice President, Consumer and BrandMarketing",market,neutral
+293.0,"Best Buy Co., Inc.","Senior Director, Investor Relations",market,neutral
+293.0,"Best Buy Co., Inc.","Vice President, Investor Relations",operational,neutral
+294.0,Murphy Oil Corporation,CEO,operational,neutral
+294.0,Murphy Oil Corporation,CFO,financial,neutral
+294.0,Murphy Oil Corporation,CFO,financial,neutral
+294.0,Murphy Oil Corporation,CFO,operational,neutral
+294.0,Murphy Oil Corporation,CFO,financial,neutral
+294.0,Murphy Oil Corporation,CFO,financial,neutral
+294.0,Murphy Oil Corporation,CFO,financial,neutral
+294.0,Murphy Oil Corporation,CFO,financial,neutral
+294.0,Murphy Oil Corporation,CFO,financial,neutral
+295.0,Eastman Chemical Company,CEO,demand,neutral
+295.0,Eastman Chemical Company,CEO,capacity utilization,neutral
+295.0,Eastman Chemical Company,CEO,raw materials,neutral
+295.0,Eastman Chemical Company,CEO,hedge losses,neutral
+295.0,Eastman Chemical Company,CEO,demand,neutral
+296.0,HealthSpring,CEO,membership,neutral
+296.0,HealthSpring,CEO,financial,neutral
+296.0,HealthSpring,CEO,financial,neutral
+296.0,HealthSpring,CEO,financial,neutral
+296.0,HealthSpring,CEO,financial,neutral
+296.0,HealthSpring,CEO,operational,neutral
+296.0,HealthSpring,CEO,financial,neutral
+296.0,HealthSpring,CEO,operational,neutral
+297.0,"AvalonBay Communities, Inc.",CEO,economic slowdown,neutral
+297.0,"AvalonBay Communities, Inc.",CEO,housing market,neutral
+297.0,"AvalonBay Communities, Inc.",CEO,regional performance,neutral
+297.0,"AvalonBay Communities, Inc.",CEO,regional performance,neutral
+297.0,"AvalonBay Communities, Inc.",CEO,economic slowdown,neutral
+298.0,Colgate-Palmolive,VP of IR,raw material costs,neutral
+298.0,Colgate-Palmolive,CEO,raw material costs,neutral
+298.0,Colgate-Palmolive,CFO,raw material costs,neutral
+298.0,Colgate-Palmolive,Corporate Controller,raw material costs,neutral
+298.0,Colgate-Palmolive,Treasurer,raw material costs,neutral
+298.0,Colgate-Palmolive,VP of IR,consumer trade down,neutral
+298.0,Colgate-Palmolive,VP of IR,consumer trade down,neutral
+299.0,NASDAQOMX,CEO,volume decline,neutral
+299.0,NASDAQOMX,CFO,integration risk,neutral
+299.0,NASDAQOMX,CEO,integration risk,neutral
+299.0,NASDAQOMX,CFO,integration risk,neutral
+299.0,NASDAQOMX,CEO,integration risk,neutral
+299.0,NASDAQOMX,CFO,integration risk,neutral
+299.0,NASDAQOMX,CEO,integration risk,neutral
+299.0,NASDAQOMX,CFO,integration risk,neutral
+299.0,NASDAQOMX,CEO,integration risk,neutral
+299.0,NASDAQOMX,CFO,integration risk,neutral
+300.0,Intercontinental Exchange,CEO,economic,neutral
+300.0,Intercontinental Exchange,CFO,economic,neutral
+300.0,Intercontinental Exchange,CEO,regulatory,neutral
+300.0,Intercontinental Exchange,CFO,economic,neutral
+300.0,Intercontinental Exchange,CEO,economic,neutral
+0.0,Bemis Company,Vice President and Treasurer,currency fluctuations,neutral
+0.0,Bemis Company,Vice President and Treasurer,changes in raw material cost,neutral
+0.0,Bemis Company,Vice President and Treasurer,industry competition,neutral
+0.0,Bemis Company,Vice President and Treasurer,consumer buying trends,neutral
+0.0,Bemis Company,Vice President and Treasurer,ability to pass along increased cost in our selling prices,neutral
+0.0,Bemis Company,Vice President and Treasurer,interest rates fluctuations,neutral
+0.0,Bemis Company,Vice President and Treasurer,regional economic conditions,neutral
+0.0,Bemis Company,Senior Vice President and Chief Financial Officer,consumer buying trends,neutral
+0.0,Bemis Company,Senior Vice President and Chief Financial Officer,higher food prices,neutral
+302.0,U.S. Bancorp,CEO,credit costs,neutral
+302.0,U.S. Bancorp,CEO,economic environment,neutral
+302.0,U.S. Bancorp,CFO,credit costs,neutral
+302.0,U.S. Bancorp,CEO,economic environment,neutral
+302.0,U.S. Bancorp,CFO,credit costs,neutral
+302.0,U.S. Bancorp,CEO,economic environment,neutral
+303.0,JPMorgan Chase,CFO,credit risk,neutral
+303.0,JPMorgan Chase,CFO,credit risk,neutral
+303.0,JPMorgan Chase,CFO,market risk,neutral
+303.0,JPMorgan Chase,CFO,accounting,neutral
+303.0,JPMorgan Chase,CFO,market risk,neutral
+303.0,JPMorgan Chase,CFO,market risk,neutral
+304.0,Quest Diagnostics,CEO,economic,neutral
+304.0,Quest Diagnostics,CFO,economic,neutral
+304.0,Quest Diagnostics,CEO,competitive,neutral
+304.0,Quest Diagnostics,CFO,regulatory,neutral
+304.0,Quest Diagnostics,CEO,competitive,neutral
+304.0,Quest Diagnostics,CFO,economic,neutral
+304.0,Quest Diagnostics,CEO,competitive,neutral
+305.0,Johnson & Johnson,Louise Mehrotra,currency fluctuations,neutral
+306.0,Altria,CEO,financial,neutral
+306.0,Altria,CFO,financial,neutral
+306.0,Altria,CFO,operational,neutral
+306.0,Altria,CFO,financial,neutral
+306.0,Altria,CFO,financial,neutral
+306.0,Altria,CFO,financial,neutral
+307.0,"BXP, Inc.",CEO,financial crisis,neutral
+307.0,"BXP, Inc.",CEO,consumer distress,neutral
+307.0,"BXP, Inc.",CEO,financial system instability,neutral
+307.0,"BXP, Inc.",CEO,credit market instability,neutral
+307.0,"BXP, Inc.",CEO,consumer distress,neutral
+308.0,Dominion,Director of IR,forward-looking statements,neutral
+308.0,Dominion,CFO,forward-looking statements,neutral
+308.0,Dominion,CEO,forward-looking statements,neutral
+308.0,Dominion,CFO,GAAP vs. Operating Earnings,neutral
+309.0,Waste Management,CEO,economic environment,neutral
+309.0,Waste Management,CEO,fuel prices,neutral
+309.0,Waste Management,CEO,weather,neutral
+310.0,Blackstone Inc.,CEO,market volatility,neutral
+310.0,Blackstone Inc.,CFO,transaction-related charges,neutral
+310.0,Blackstone Inc.,CFO,fair value changes,neutral
+310.0,Blackstone Inc.,CFO,performance fees,neutral
+310.0,Blackstone Inc.,CFO,market volatility,neutral
+311.0,Baker Hughes Company,Director of Investor Relations,various risk factors,neutral
+311.0,Baker Hughes Company,"Chief Executive Officer, Chairman, and President",various risk factors,neutral
+311.0,Baker Hughes Company,Chief Financial Officer,various risk factors,neutral
+312.0,Flowserve,CEO,neutral,at or around the high end of our previously announced range of 720 to 750 per share
+312.0,Flowserve,CEO,neutral,neutral
+312.0,Flowserve,CEO,neutral,neutral
+313.0,Qualcomm,CEO,economic slowdown,neutral
+313.0,Qualcomm,CEO,market volatility,neutral
+313.0,Qualcomm,CEO,impairment,neutral
+313.0,Qualcomm,CEO,impairment,neutral
+314.0,KeyCorp,CEO,credit cycle,neutral
+315.0,eBay,CEO,competitive environment,neutral
+315.0,eBay,CFO,regulatory tax,neutral
+315.0,eBay,CFO,IP and other litigation risks,neutral
+315.0,eBay,CFO,technology upgrades,neutral
+315.0,eBay,CFO,foreign exchange rate fluctuations,neutral
+315.0,eBay,CFO,"political, business, and economic conditions",neutral
+315.0,eBay,CFO,integration of recent and future acquisitions,neutral
+316.0,Leggett & Platt,CEO,economic downturn,neutral
+316.0,Leggett & Platt,CFO,economic downturn,neutral
+316.0,Leggett & Platt,CEO,demand,neutral
+316.0,Leggett & Platt,CFO,demand,neutral
+316.0,Leggett & Platt,CEO,demand,neutral
+316.0,Leggett & Platt,CFO,demand,neutral
+316.0,Leggett & Platt,CEO,demand,neutral
+316.0,Leggett & Platt,CFO,demand,neutral
+316.0,Leggett & Platt,CEO,demand,neutral
+316.0,Leggett & Platt,CEO,economic downturn,neutral
+316.0,Leggett & Platt,CEO,economic downturn,neutral
+316.0,Leggett & Platt,CEO,economic downturn,neutral
+316.0,Leggett & Platt,CEO,economic downturn,neutral
+316.0,Leggett & Platt,CEO,economic downturn,neutral
+316.0,Leggett & Platt,CEO,economic downturn,neutral
+316.0,Leggett & Platt,CEO,economic downturn,neutral
+317.0,Boston Scientific Corporation,CFO,goodwill impairment,neutral
+317.0,Boston Scientific Corporation,CFO,market dynamics,neutral
+317.0,Boston Scientific Corporation,CFO,foreign currency,neutral
+317.0,Boston Scientific Corporation,CFO,credit markets,neutral
+318.0,Kimco,Chief Financial Officer,economic downturn,neutral
+318.0,Kimco,Chief Financial Officer,market dislocation,neutral
+318.0,Kimco,Chief Financial Officer,economic downturn,neutral
+319.0,None,CFO,uncertainty,neutral
+319.0,None,CFO,accounting,neutral
+319.0,None,CFO,operational,neutral
+319.0,None,CFO,operational,neutral
+319.0,None,CFO,uncertainty,neutral
+319.0,None,CFO,operational,neutral
+319.0,None,CFO,uncertainty,neutral
+320.0,Eaton,Senior Vice President Investor Relations,market downturn,neutral
+320.0,Eaton,"Chairman of the Board, President & Chief Executive Officer",market downturn,neutral
+320.0,Eaton,Chief Financial and Planning Officer & Executive Vice President,market downturn,neutral
+320.0,Eaton,Senior Vice President Investor Relations,market downturn,neutral
+320.0,Eaton,"Chairman of the Board, President & Chief Executive Officer",market downturn,neutral
+320.0,Eaton,Chief Financial and Planning Officer & Executive Vice President,market downturn,neutral
+320.0,Eaton,Senior Vice President Investor Relations,market downturn,neutral
+320.0,Eaton,"Chairman of the Board, President & Chief Executive Officer",market downturn,neutral
+320.0,Eaton,Chief Financial and Planning Officer & Executive Vice President,market downturn,neutral
+320.0,Eaton,Senior Vice President Investor Relations,market downturn,neutral
+320.0,Eaton,"Chairman of the Board, President & Chief Executive Officer",market downturn,neutral
+320.0,Eaton,Chief Financial and Planning Officer & Executive Vice President,market downturn,neutral
+320.0,Eaton,Senior Vice President Investor Relations,market downturn,neutral
+321.0,Flowserve,Treasurer and Vice President of Investor Relations,forward-looking statements,neutral
+321.0,Flowserve,CEO,market volatility,neutral
+321.0,Flowserve,CFO,market volatility,neutral
+321.0,Flowserve,Latin America Operations,market volatility,neutral
+321.0,Flowserve,CEO,market volatility,neutral
+321.0,Flowserve,CFO,market volatility,neutral
+321.0,Flowserve,CFO,market volatility,neutral
+321.0,Flowserve,CEO,market volatility,neutral
+321.0,Flowserve,CFO,market volatility,neutral
+321.0,Flowserve,CEO,market volatility,neutral
+321.0,Flowserve,CFO,market volatility,neutral
+322.0,Unum Group,CEO,market volatility,neutral
+322.0,Unum Group,CEO,investment losses,neutral
+322.0,Unum Group,CEO,accounting policy,neutral
+322.0,Unum Group,CEO,currency fluctuations,neutral
+322.0,Unum Group,CEO,litigation costs,neutral
+323.0,CIGNA,VP of IR,financial,neutral
+324.0,Developers Diversified Realty Corporation,Investor Relations,financial,neutral
+325.0,Dynegy,CEO,commodity price volatility,neutral
+325.0,Dynegy,CEO,weather-related,neutral
+325.0,Dynegy,CEO,basis risk,neutral
+325.0,Dynegy,CEO,fuel cost,neutral
+325.0,Dynegy,CEO,commodity price volatility,neutral
+326.0,Constellation Brands,VP of IR,market,neutral
+326.0,Constellation Brands,President and CEO,market,neutral
+326.0,Constellation Brands,CFO,market,neutral
+326.0,Constellation Brands,VP of IR,market,neutral
+327.0,"Apollo Global Management, Inc.",CEO,calendar mismatch,neutral
+327.0,"Apollo Global Management, Inc.",CFO,cheese prices,neutral
+327.0,"Apollo Global Management, Inc.",CFO,wage rates,neutral
+327.0,"Apollo Global Management, Inc.",CFO,calendar mismatch,neutral
+327.0,"Apollo Global Management, Inc.",CFO,insurance expense,neutral
+327.0,"Apollo Global Management, Inc.",CFO,advertising expense,neutral
+327.0,"Apollo Global Management, Inc.",CFO,interest expense,neutral
+328.0,Comcast Corporation,CEO,competitive environment,neutral
+328.0,Comcast Corporation,CEO,challenging economic conditions,neutral
+328.0,Comcast Corporation,CFO,competitive environment,neutral
+329.0,Apache Corporation,CEO,operational,neutral
+329.0,Apache Corporation,CFO,operational,neutral
+329.0,Apache Corporation,CEO,operational,neutral
+329.0,Apache Corporation,CFO,operational,neutral
+329.0,Apache Corporation,CEO,operational,neutral
+329.0,Apache Corporation,CFO,operational,neutral
+329.0,Apache Corporation,CEO,operational,neutral
+329.0,Apache Corporation,CFO,operational,neutral
+329.0,Apache Corporation,CEO,operational,neutral
+329.0,Apache Corporation,CFO,operational,neutral
+330.0,Xcel Energy,"Managing Director, Investor Relations",economic,neutral
+330.0,Xcel Energy,Vice President and Chief Financial Officer,economic,neutral
+330.0,Xcel Energy,Vice President and Chief Financial Officer,economic,neutral
+330.0,Xcel Energy,Vice President and Chief Financial Officer,economic,neutral
+331.0,Robert Half International,CEO,economic downturn,neutral
+331.0,Robert Half International,CEO,client caution,neutral
+331.0,Robert Half International,CEO,market volatility,neutral
+332.0,Northern Trust Corp,CFO,financial reporting,neutral
+332.0,Northern Trust Corp,CFO,structured leasing,neutral
+332.0,Northern Trust Corp,CFO,tax,neutral
+332.0,Northern Trust Corp,CFO,tax,neutral
+333.0,Newmont,CEO,market volatility,neutral
+333.0,Newmont,CEO,project execution,neutral
+333.0,Newmont,CEO,project execution,neutral
+333.0,Newmont,CEO,project execution,neutral
+333.0,Newmont,CEO,market volatility,neutral
+333.0,Newmont,CEO,financial market turmoil,neutral
+333.0,Newmont,CEO,project development,neutral
+334.0,Symantec,CEO,execution,neutral
+334.0,Symantec,CEO,execution,neutral
+334.0,Symantec,CEO,execution,neutral
+335.0,Murphy Oil Corporation,CEO,market,neutral
+336.0,Crown Castle Inc.,CEO,economic conditions,neutral
+336.0,Crown Castle Inc.,CFO,economic conditions,neutral
+336.0,Crown Castle Inc.,CEO,uncertainty,neutral
+337.0,Altria,CFO,integration,neutral
+337.0,Altria,CEO,integration,neutral
+337.0,Altria,CFO,financial,neutral
+337.0,Altria,CFO,financial,neutral
+337.0,Altria,CFO,financial,neutral
+337.0,Altria,CFO,financial,neutral
+337.0,Altria,CFO,financial,neutral
+338.0,SunTrust,CEO,credit,neutral
+338.0,SunTrust,CFO,credit,neutral
+338.0,SunTrust,Chief Risk and Credit Officer,credit,neutral
+339.0,PepsiCo,CEO,macroeconomic,neutral
+339.0,PepsiCo,CEO,category challenges,neutral
+339.0,PepsiCo,CEO,volatility,neutral
+340.0,Helmerich & Payne,CFO,market,neutral
+340.0,Helmerich & Payne,CEO,operational,neutral
+340.0,Helmerich & Payne,"EVP, US and International Operations",operational,neutral
+340.0,Helmerich & Payne,CFO,market,neutral
+340.0,Helmerich & Payne,CEO,operational,neutral
+340.0,Helmerich & Payne,"EVP, US and International Operations",operational,neutral
+340.0,Helmerich & Payne,CFO,market,neutral
+340.0,Helmerich & Payne,CEO,market,neutral
+340.0,Helmerich & Payne,"EVP, US and International Operations",operational,neutral
+340.0,Helmerich & Payne,CFO,market,neutral
+340.0,Helmerich & Payne,CEO,market,neutral
+340.0,Helmerich & Payne,"EVP, US and International Operations",operational,neutral
+341.0,None,Stephen A. Wynn,weak business conditions,neutral
+341.0,None,Stephen A. Wynn,low profitability,neutral
+341.0,None,Stephen A. Wynn,operational,neutral
+341.0,None,Stephen A. Wynn,low profitability,neutral
+341.0,None,Stephen A. Wynn,operational,neutral
+341.0,None,Stephen A. Wynn,operational,neutral
+341.0,None,Stephen A. Wynn,operational,neutral
+341.0,None,Stephen A. Wynn,operational,neutral
+341.0,None,Stephen A. Wynn,operational,neutral
+341.0,None,Stephen A. Wynn,operational,neutral
+342.0,AK Steel,Chief Financial Officer,economic,neutral
+342.0,AK Steel,Chief Financial Officer,competitive,neutral
+342.0,AK Steel,Chief Financial Officer,operational,neutral
+342.0,AK Steel,Chief Financial Officer,uncertainties and contingencies,neutral
+342.0,AK Steel,Chief Financial Officer,raw material costs,neutral
+342.0,AK Steel,Chief Financial Officer,uncertainties and contingencies,neutral
+343.0,Lincoln Financial Group,VP of IR,economic conditions,neutral
+343.0,Lincoln Financial Group,President and CEO,credit conditions,neutral
+343.0,Lincoln Financial Group,Sr. VP and CFO,economic conditions,neutral
+343.0,Lincoln Financial Group,"President, Individual Markets",credit conditions,neutral
+343.0,Lincoln Financial Group,VP and Chief Accounting Officer,economic conditions,neutral
+343.0,Lincoln Financial Group,President and CEO,credit conditions,neutral
+343.0,Lincoln Financial Group,Sr. VP and CFO,economic conditions,neutral
+343.0,Lincoln Financial Group,President and CEO,economic conditions,neutral
+344.0,Paychex,CFO,economic,neutral
+344.0,Paychex,CEO,operational,neutral
+344.0,Paychex,CFO,market,neutral
+344.0,Paychex,CFO,investment,neutral
+344.0,Paychex,CFO,investment,neutral
+344.0,Paychex,CFO,investment,neutral
+344.0,Paychex,CFO,investment,neutral
+344.0,Paychex,CFO,investment,neutral
+344.0,Paychex,CFO,investment,neutral
+344.0,Paychex,CFO,investment,neutral
+345.0,CBS Corporation,Executive Vice President of Investor Relations,writer's strike,neutral
+345.0,CBS Corporation,Executive Chairman of the Board of Directors and Founder,neutral,neutral
+345.0,CBS Corporation,"President, Chief Executive Officer, Director",neutral,neutral
+345.0,CBS Corporation,"Chief Financial Officer, Executive Vice President",neutral,neutral
+346.0,"Cardinal Health, Inc.",Chairman and Chief Executive Officer,operational,neutral
+346.0,"Cardinal Health, Inc.",Chairman and Chief Executive Officer,strategic,neutral
+346.0,"Cardinal Health, Inc.",Chairman and Chief Executive Officer,operational,neutral
+346.0,"Cardinal Health, Inc.",Chairman and Chief Executive Officer,operational,neutral
+347.0,Abbott Laboratories,CFO,earnings guidance,neutral
+347.0,Abbott Laboratories,CFO,investment spending,neutral
+347.0,Abbott Laboratories,CFO,earnings growth,neutral
+347.0,Abbott Laboratories,CFO,regulatory approvals,neutral
+348.0,Caterpillar Inc.,CEO,financial markets,neutral
+348.0,Caterpillar Inc.,CFO,currency,neutral
+348.0,Caterpillar Inc.,CFO,manufacturing costs,neutral
+349.0,Comerica,Ralph W. Babb Jr.,economic,neutral
+349.0,Comerica,Ralph W. Babb Jr.,credit,neutral
+349.0,Comerica,Ralph W. Babb Jr.,market,neutral
+349.0,Comerica,Ralph W. Babb Jr.,credit,neutral
+349.0,Comerica,Ralph W. Babb Jr.,market,neutral
+349.0,Comerica,Ralph W. Babb Jr.,competitive,neutral
+349.0,Comerica,Ralph W. Babb Jr.,competitive,neutral
+350.0,Northrop Grumman,Chairman and Chief Executive Officer,program delivery,neutral
+350.0,Northrop Grumman,President and COO,program delivery,neutral
+350.0,Northrop Grumman,Chief Financial Officer,financial,neutral
+351.0,Kimberly-Clark,CFO,economic conditions,neutral
+351.0,Kimberly-Clark,CFO,currency exchange rates,neutral
+351.0,Kimberly-Clark,CFO,inventory levels,neutral
+351.0,Kimberly-Clark,CFO,consumer behavior,neutral
+352.0,Procter & Gamble,CFO,commodity costs,neutral
+352.0,Procter & Gamble,CFO,currency exchange,neutral
+352.0,Procter & Gamble,CFO,market share,neutral
+352.0,Procter & Gamble,CFO,commodity costs,neutral
+352.0,Procter & Gamble,CFO,currency exchange,neutral
+353.0,Noble Corporation,VP of IR,revenue loss,neutral
+353.0,Noble Corporation,"Chairman, CEO and President",market performance,neutral
+353.0,Noble Corporation,Sr. VP and CFO,market performance,neutral
+353.0,Noble Corporation,VP of Worldwide Marketing,market performance,neutral
+353.0,Noble Corporation,"Chairman, CEO and President",market performance,neutral
+354.0,Celanese Corporation,Investor Relations,economic,neutral
+354.0,Celanese Corporation,Chairman and Chief Executive Officer,operational,neutral
+354.0,Celanese Corporation,Chairman and Chief Executive Officer,economic,neutral
+354.0,Celanese Corporation,Chairman and Chief Executive Officer,operational,neutral
+355.0,Comcast,CEO,economic environment,neutral
+355.0,Comcast,CEO,competition,neutral
+355.0,Comcast,CEO,advertising environment,neutral
+355.0,Comcast,CEO,customer addition growth,neutral
+355.0,Comcast,CEO,competition,neutral
+356.0,JPMorgan Chase,CFO,market risk,neutral
+356.0,JPMorgan Chase,CFO,credit risk,neutral
+356.0,JPMorgan Chase,CFO,market risk,neutral
+356.0,JPMorgan Chase,CFO,credit risk,neutral
+357.0,Brown-Forman Corporation,CEO,economic conditions,neutral
+357.0,Brown-Forman Corporation,CFO,economic conditions,neutral
+357.0,Brown-Forman Corporation,CEO,market conditions,neutral
+358.0,Booking Holdings Inc.,CEO,economic conditions,neutral
+358.0,Booking Holdings Inc.,CFO,market competition,neutral
+358.0,Booking Holdings Inc.,CEO,market competition,neutral
+358.0,Booking Holdings Inc.,CFO,market competition,neutral
+359.0,None,CEO,tax,neutral
+359.0,None,CEO,tax,neutral
+359.0,None,CEO,financial,neutral
+359.0,None,CEO,business,neutral
+359.0,None,CEO,financial,neutral
+359.0,None,CEO,financial,neutral
+360.0,Sempra Energy,CEO,market environment,neutral
+360.0,Sempra Energy,CEO,uncertainty,neutral
+360.0,Sempra Energy,CFO,business unit performance,neutral
+360.0,Sempra Energy,CFO,business unit performance,neutral
+360.0,Sempra Energy,CFO,business unit performance,neutral
+360.0,Sempra Energy,CFO,business unit performance,neutral
+361.0,Chubb Limited,CEO,economic,neutral
+361.0,Chubb Limited,CFO,economic,neutral
+361.0,Chubb Limited,CEO,market,neutral
+361.0,Chubb Limited,CEO,currency,neutral
+361.0,Chubb Limited,CEO,market,neutral
+361.0,Chubb Limited,CEO,economic,neutral
+361.0,Chubb Limited,CEO,market,neutral
+362.0,SunTrust,CEO,credit,neutral
+362.0,SunTrust,CFO,credit,neutral
+362.0,SunTrust,Chief Risk and Credit Officer,credit,neutral
+362.0,SunTrust,CEO,credit,neutral
+362.0,SunTrust,CFO,credit,neutral
+362.0,SunTrust,Chief Risk and Credit Officer,credit,neutral
+363.0,Fastenal,CEO,economic,neutral
+363.0,Fastenal,CFO,operational,neutral
+363.0,Fastenal,COO,operational,neutral
+363.0,Fastenal,Company Representative,operational,neutral
+364.0,Altera,CEO,financial,neutral
+364.0,Altera,CFO,operational,neutral
+364.0,Altera,CEO,operational,neutral
+364.0,Altera,CFO,operational,neutral
+364.0,Altera,CEO,operational,neutral
+364.0,Altera,CFO,financial,neutral
+364.0,Altera,CEO,financial,neutral
+364.0,Altera,CFO,operational,neutral
+365.0,VF Corporation,CEO,economic,neutral
+365.0,VF Corporation,CFO,economic,neutral
+365.0,VF Corporation,CEO,competitive,neutral
+365.0,VF Corporation,CEO,operational,neutral
+366.0,Fastenal Company,CEO,legal,neutral
+366.0,Fastenal Company,CEO,operational,neutral
+366.0,Fastenal Company,CFO,operational,neutral
+366.0,Fastenal Company,CEO,operational,neutral
+366.0,Fastenal Company,CFO,operational,neutral
+366.0,Fastenal Company,CEO,operational,neutral
+366.0,Fastenal Company,CFO,operational,neutral
+366.0,Fastenal Company,CEO,legal,neutral
+366.0,Fastenal Company,CFO,operational,neutral
+366.0,Fastenal Company,CEO,operational,neutral
+366.0,Fastenal Company,CFO,operational,neutral
+367.0,E. W. Scripps Company,CEO,economic downturn,neutral
+367.0,E. W. Scripps Company,CEO,advertising decline,neutral
+367.0,E. W. Scripps Company,CEO,advertising decline,neutral
+367.0,E. W. Scripps Company,CEO,economic downturn,neutral
+367.0,E. W. Scripps Company,CEO,competitive landscape,neutral
+367.0,E. W. Scripps Company,CEO,competitive landscape,neutral
+367.0,E. W. Scripps Company,CEO,competitive landscape,neutral
+367.0,E. W. Scripps Company,CEO,competitive landscape,neutral
+367.0,E. W. Scripps Company,CEO,competitive landscape,neutral
+368.0,ProLogis,CEO,economic,neutral
+368.0,ProLogis,CFO,economic,neutral
+368.0,ProLogis,CEO,market,neutral
+368.0,ProLogis,CFO,market,neutral
+368.0,ProLogis,CEO,market,neutral
+368.0,ProLogis,CFO,market,neutral
+368.0,ProLogis,CEO,market,neutral
+368.0,ProLogis,CFO,market,neutral
+369.0,Kimco,CFO,financial,neutral
+369.0,Kimco,CFO,financial,neutral
+369.0,Kimco,CFO,financial,neutral
+369.0,Kimco,CFO,financial,neutral
+369.0,Kimco,CFO,financial,neutral
+370.0,None,CFO,delay,neutral
+370.0,None,CFO,delay,neutral
+371.0,"Becton, Dickinson and Company",Investor Relations,financial,neutral
+371.0,"Becton, Dickinson and Company",Vice President Finance,financial,neutral
+371.0,"Becton, Dickinson and Company",Investor Relations,financial,neutral
+371.0,"Becton, Dickinson and Company",Vice President Finance,financial,neutral
+371.0,"Becton, Dickinson and Company",Investor Relations,financial,neutral
+372.0,Jacobs,CEO,business,neutral
+372.0,Jacobs,CFO,operational,neutral
+372.0,Jacobs,CFO,financial,neutral
+372.0,Jacobs,CFO,business,neutral
+372.0,Jacobs,CFO,business,neutral
+372.0,Jacobs,CFO,business,neutral
+373.0,Western Union,VP IR,market,neutral
+373.0,Western Union,President & CEO,market,neutral
+373.0,Western Union,President & CEO,market,neutral
+373.0,Western Union,President & CEO,market,neutral
+374.0,LabCorp,CEO,forward-looking statements,neutral
+374.0,LabCorp,"Senior Vice President, Investor and Media Relations",forward-looking statements,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,market conditions,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,economic downturn,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,credit markets,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,equity markets,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,client activity,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,credit spreads,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,interest rates,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,corporate bankruptcies,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,real estate markets,neutral
+375.0,"Ameriprise Financial, Inc.",CEO,market conditions,neutral
+376.0,Abercrombie & Fitch,CEO,economic downturn,neutral
+376.0,Abercrombie & Fitch,CFO,consumer reluctance,neutral
+376.0,Abercrombie & Fitch,CFO,economic volatility,neutral
+376.0,Abercrombie & Fitch,CEO,competitive landscape,neutral
+376.0,Abercrombie & Fitch,CFO,operational,neutral
+376.0,Abercrombie & Fitch,CEO,competitive landscape,neutral
+376.0,Abercrombie & Fitch,CFO,capital expenditures,neutral
+376.0,Abercrombie & Fitch,CEO,international expansion,neutral
+377.0,Legg Mason,CEO,financial results,neutral
+377.0,Legg Mason,CEO,financial results,neutral
+377.0,Legg Mason,CEO,market conditions,neutral
+377.0,Legg Mason,CEO,market conditions,neutral
+377.0,Legg Mason,CEO,market conditions,neutral
+378.0,"AvalonBay Communities, Inc.",CEO,economic,neutral
+378.0,"AvalonBay Communities, Inc.",CEO,market,neutral
+378.0,"AvalonBay Communities, Inc.",CEO,competitive,neutral
+378.0,"AvalonBay Communities, Inc.",CEO,supply,neutral
+378.0,"AvalonBay Communities, Inc.",CEO,economic,neutral
+378.0,"AvalonBay Communities, Inc.",CEO,economic,neutral
+378.0,"AvalonBay Communities, Inc.",CEO,economic,neutral
+379.0,Allegheny Technologies,L. Patrick Hassey,raw material costs,neutral
+379.0,Allegheny Technologies,L. Patrick Hassey,competitive marketplace,neutral
+379.0,Allegheny Technologies,L. Patrick Hassey,aerospace build schedules,neutral
+379.0,Allegheny Technologies,L. Patrick Hassey,uncertainties in the U.S. economy,neutral
+379.0,Allegheny Technologies,L. Patrick Hassey,startup expense,neutral
+380.0,IAC,CEO,operational,neutral
+380.0,IAC,CFO,operational,neutral
+380.0,IAC,CEO,operational,neutral
+380.0,IAC,CFO,operational,neutral
+380.0,IAC,CEO,operational,neutral
+380.0,IAC,CFO,operational,neutral
+380.0,IAC,CEO,operational,neutral
+381.0,Sealed Air,CEO,economic downturn,neutral
+382.0,"Autodesk, Inc.",CEO,macroeconomic,neutral
+382.0,"Autodesk, Inc.",CEO,competitive,neutral
+382.0,"Autodesk, Inc.",CEO,competitive,neutral
+382.0,"Autodesk, Inc.",CEO,operational,neutral
+383.0,Tyco Electronics,CEO,market,neutral
+383.0,Tyco Electronics,CFO,market,neutral
+383.0,Tyco Electronics,CEO,market,neutral
+383.0,Tyco Electronics,CFO,market,neutral
+383.0,Tyco Electronics,CEO,market,neutral
+383.0,Tyco Electronics,CFO,market,neutral
+383.0,Tyco Electronics,CEO,market,neutral
+383.0,Tyco Electronics,CFO,market,neutral
+384.0,Xcel Energy,CEO,sales_growth,neutral
+384.0,Xcel Energy,CFO,sales_growth,neutral
+384.0,Xcel Energy,Analyst,sales_growth,neutral
+384.0,Xcel Energy,CFO,sales_growth,neutral
+384.0,Xcel Energy,CFO,sales_growth,neutral
+384.0,Xcel Energy,CFO,sales_growth,neutral
+384.0,Xcel Energy,CFO,sales_growth,neutral
+384.0,Xcel Energy,CFO,sales_growth,neutral
+384.0,Xcel Energy,CFO,sales_growth,neutral
+384.0,Xcel Energy,CFO,sales_growth,neutral
+385.0,Arthur J. Gallagher & Co.,"Chairman, President and CEO",market competition,neutral
+385.0,Arthur J. Gallagher & Co.,"Chairman, President and CEO",market volatility,neutral
+385.0,Arthur J. Gallagher & Co.,"Chairman, President and CEO",organic growth,neutral
+385.0,Arthur J. Gallagher & Co.,"Chairman, President and CEO",market competition,neutral
+385.0,Arthur J. Gallagher & Co.,"Chairman, President and CEO",organic growth,neutral
+385.0,Arthur J. Gallagher & Co.,"Chairman, President and CEO",market competition,neutral
+385.0,Arthur J. Gallagher & Co.,"Chairman, President and CEO",market competition,neutral
+385.0,Arthur J. Gallagher & Co.,"Chairman, President and CEO",market competition,neutral
+386.0,Exelon,Chairman and Chief Executive Officer,economic downturn,neutral
+386.0,Exelon,Chairman and Chief Executive Officer,financial terms,neutral
+386.0,Exelon,Chairman and Chief Executive Officer,economic downturn,neutral
+386.0,Exelon,Chairman and Chief Executive Officer,regulatory and political environment,neutral
+387.0,AIG,VP and Director of IR,liquidity,neutral
+387.0,AIG,Chairman and CEO,liquidity,neutral
+387.0,AIG,VP and Director of IR,financial condition,neutral
+387.0,AIG,Chairman and CEO,financial condition,neutral
+387.0,AIG,VP and Director of IR,financial condition,neutral
+387.0,AIG,Chairman and CEO,financial condition,neutral
+388.0,CME Group,Director of Investor Relations,counterparty credit risk,neutral
+388.0,CME Group,Chief Executive Officer,counterparty credit risk,neutral
+388.0,CME Group,Chief Financial Officer,counterparty credit risk,neutral
+388.0,CME Group,"Managing Director, Products and Services",counterparty credit risk,neutral
+388.0,CME Group,"President, CME Clearing",counterparty credit risk,neutral
+388.0,CME Group,Chief Executive Officer,regulatory and legislative risk,neutral
+388.0,CME Group,Chief Executive Officer,operational,neutral
+389.0,"Analog Devices, Inc.",Executive Director of Investor Relations,operational,neutral
+389.0,"Analog Devices, Inc.",Chief Executive Officer,operational,neutral
+389.0,"Analog Devices, Inc.",Group President,operational,neutral
+389.0,"Analog Devices, Inc.",Division Vice President,operational,neutral
+389.0,"Analog Devices, Inc.",Vice President of Finance,operational,neutral
+389.0,"Analog Devices, Inc.",Vice President - Finance,operational,neutral
+389.0,"Analog Devices, Inc.",Chief Executive Officer,operational,neutral
+389.0,"Analog Devices, Inc.",Group President,operational,neutral
+389.0,"Analog Devices, Inc.",Division Vice President,operational,neutral
+390.0,Agilent Technologies,Vice President of Investor Relations,economic,neutral
+390.0,Agilent Technologies,President and CEO,market,neutral
+390.0,Agilent Technologies,Executive Vice President of Finance and Administration and CFO,economic,neutral
+390.0,Agilent Technologies,Vice President of Investor Relations,economic,neutral
+390.0,Agilent Technologies,President and CEO,market,neutral
+390.0,Agilent Technologies,Executive Vice President of Finance and Administration and CFO,market,neutral
+390.0,Agilent Technologies,Vice President of Investor Relations,economic,neutral
+390.0,Agilent Technologies,President and CEO,market,neutral
+390.0,Agilent Technologies,Executive Vice President of Finance and Administration and CFO,market,neutral
+390.0,Agilent Technologies,Vice President of Investor Relations,economic,neutral
+391.0,"UST, Inc.",CEO,economic,neutral
+391.0,"UST, Inc.",CEO,competitive,neutral
+391.0,"UST, Inc.",CEO,competitive,neutral
+391.0,"UST, Inc.",CEO,economic,neutral
+391.0,"UST, Inc.",CFO,economic,neutral
+391.0,"UST, Inc.",CEO,competitive,neutral
+392.0,Lowe's Companies,CEO,economic downturn,neutral
+392.0,Lowe's Companies,CEO,consumer spending,neutral
+392.0,Lowe's Companies,CFO,gross margin,neutral
+392.0,Lowe's Companies,CEO,competitive pressures,neutral
+393.0,McGraw-Hill Companies,CEO,economic downturn,neutral
+393.0,McGraw-Hill Companies,CEO,financial markets,neutral
+393.0,McGraw-Hill Companies,CEO,interest rates,neutral
+393.0,McGraw-Hill Companies,CEO,economic downturn,neutral
+393.0,McGraw-Hill Companies,CEO,economic downturn,neutral
+394.0,MBIA,CEO,credit,neutral
+394.0,MBIA,CEO,regulatory,neutral
+394.0,MBIA,CEO,market,neutral
+394.0,MBIA,CEO,financial,neutral
+394.0,MBIA,CEO,operational,neutral
+395.0,Equity Residential,CEO,economic slowdown,neutral
+395.0,Equity Residential,CFO,economic slowdown,neutral
+395.0,Equity Residential,CEO,credit markets,neutral
+395.0,Equity Residential,CEO,job situation,neutral
+395.0,Equity Residential,CEO,occupancy,neutral
+395.0,Equity Residential,CEO,economic slowdown,neutral
+395.0,Equity Residential,CFO,economic slowdown,neutral
+396.0,Ryder System Incorporated,VP of IR and Public Affairs,economic slowdown,neutral
+396.0,Ryder System Incorporated,Chairman and CEO,operational,neutral
+396.0,Ryder System Incorporated,EVP and CFO,operational,neutral
+396.0,Ryder System Incorporated,President of Global Fleet Management Solutions,operational,neutral
+396.0,Ryder System Incorporated,President of Global Supply Chain Solutions,operational,neutral
+396.0,Ryder System Incorporated,VP of IR and Public Affairs,operational,neutral
+396.0,Ryder System Incorporated,Chairman and CEO,operational,neutral
+396.0,Ryder System Incorporated,EVP and CFO,operational,neutral
+396.0,Ryder System Incorporated,President of Global Fleet Management Solutions,operational,neutral
+396.0,Ryder System Incorporated,President of Global Supply Chain Solutions,operational,neutral
+396.0,Ryder System Incorporated,VP of IR and Public Affairs,operational,neutral
+396.0,Ryder System Incorporated,Chairman and CEO,operational,neutral
+396.0,Ryder System Incorporated,EVP and CFO,operational,neutral
+396.0,Ryder System Incorporated,President of Global Fleet Management Solutions,operational,neutral
+396.0,Ryder System Incorporated,President of Global Supply Chain Solutions,operational,neutral
+397.0,Equifax,CEO,economic downturn,neutral
+397.0,Equifax,CFO,market volatility,neutral
+397.0,Equifax,CEO,business performance,neutral
+397.0,Equifax,CFO,market volatility,neutral
+397.0,Equifax,CEO,business performance,neutral
+398.0,Exelon,Chairman and Chief Executive Officer,economic downturn,neutral
+398.0,Exelon,Chairman and Chief Executive Officer,financial terms,neutral
+398.0,Exelon,Chairman and Chief Executive Officer,economic downturn,neutral
+398.0,Exelon,Chairman and Chief Executive Officer,regulatory and political environment,neutral
+399.0,AutoNation,CEO,economic downturn,neutral
+399.0,AutoNation,CEO,credit market,neutral
+399.0,AutoNation,CEO,sales decline,neutral
+399.0,AutoNation,CEO,consumer confidence,neutral
+399.0,AutoNation,CEO,credit market,neutral
+399.0,AutoNation,CEO,economic downturn,neutral
